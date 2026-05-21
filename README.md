@@ -25,6 +25,7 @@ Use this index when Codex, Claude Code, or another AI agent needs to locate the 
 
 | Domain | Use Case | Skill | Use When |
 | --- | --- | --- | --- |
+| Cloud Foundation | Architecture Design and Visualization | [Huawei Cloud Architecture Draw.io](./Cloud-Foundation/Architecture-Design-and-Visualization/Huawei-Cloud-Architecture-Drawio/README.md) | Generate Huawei Cloud `.drawio` / diagrams.net architecture diagrams with official product icons, validation scripts, resource inventory exports, and sample DR architectures. |
 | Cloud Foundation | Security Foundation | [CFW Finance Skill](./Cloud-Foundation/Security-Foundation/CFW-Finance-Skill/README.md) | Configure Huawei Cloud Firewall for finance, banking, PCI DSS, IPS, ACL, logging, alarm, or compliance-oriented security baselines. |
 | Application Modernization | Application Migration | [Kafka GaussDB Trading Skill](./Application-Modernization/Application-Migration/Kafka-GaussDB-Trading-Skill/README.md) | Design or migrate high-frequency transaction systems using DMS for Kafka plus GaussDB, Java consumers, idempotency, partitioning, retry, and DLQ patterns. |
 | Application Modernization | Database Migration | [GaussDB Adaptation Skill](./Application-Modernization/Database-Migration/GaussDB-Adaptation-Skill/README.md) | Port SQL Server or PostgreSQL code to Huawei GaussDB or openGauss-compatible environments, including SQL dialect, driver, auth, and bulk-load adaptation. |

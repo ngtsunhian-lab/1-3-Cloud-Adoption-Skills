@@ -1,0 +1,1811 @@
+[
+  {
+    "category": "AI",
+    "code": "cbs",
+    "title": "cbs",
+    "description": "",
+    "href": "",
+    "image_key": "AI/cbs.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\cbs.png"
+  },
+  {
+    "category": "AI",
+    "code": "Moderation",
+    "title": "Content Moderation",
+    "description": "Detect inappropriate content in images, text, and videos",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/moderation.html",
+    "image_key": "AI/Moderation.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\Moderation.png"
+  },
+  {
+    "category": "AI",
+    "code": "eihealth",
+    "title": "EIHealth",
+    "description": "Use AI to facilitate genomics, drug discovery, and medical imaging",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/eihealth.html",
+    "image_key": "AI/eihealth.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\eihealth.png"
+  },
+  {
+    "category": "AI",
+    "code": "FRS",
+    "title": "FRS",
+    "description": "",
+    "href": "",
+    "image_key": "AI/FRS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\FRS.png"
+  },
+  {
+    "category": "AI",
+    "code": "ges",
+    "title": "Graph Engine Service (GES)",
+    "description": "Query and analyze graph-structure data based on relationships",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ges.html",
+    "image_key": "AI/ges.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\ges.png"
+  },
+  {
+    "category": "AI",
+    "code": "hilens",
+    "title": "Huawei HiLens (HiLens)",
+    "description": "Use this platform for multimodal AI development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/hilens.html",
+    "image_key": "AI/hilens.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\hilens.png"
+  },
+  {
+    "category": "AI",
+    "code": "Image",
+    "title": "Image Recognition",
+    "description": "Identify visual content in images",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/image.html",
+    "image_key": "AI/Image.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\Image.png"
+  },
+  {
+    "category": "AI",
+    "code": "VIAS",
+    "title": "Intelligent Video Analysis Service",
+    "description": "VIAS is a comprehensive solution for AI-driven video analytics, event detection",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vias.html",
+    "image_key": "AI/VIAS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\VIAS.png"
+  },
+  {
+    "category": "AI",
+    "code": "ivs",
+    "title": "ivs",
+    "description": "",
+    "href": "",
+    "image_key": "AI/ivs.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\ivs.png"
+  },
+  {
+    "category": "AI",
+    "code": "MaaS",
+    "title": "MaaS",
+    "description": "Ultimate Performance, Intuitive Tokens Service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/maas.html",
+    "image_key": "AI/MaaS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\MaaS.png"
+  },
+  {
+    "category": "AI",
+    "code": "ModelArts",
+    "title": "ModelArts",
+    "description": "Build, train, and deploy machine learning models quickly and easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/modelarts.html",
+    "image_key": "AI/ModelArts.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\ModelArts.png"
+  },
+  {
+    "category": "AI",
+    "code": "Octopus",
+    "title": "Octopus",
+    "description": "",
+    "href": "",
+    "image_key": "AI/Octopus.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\Octopus.png"
+  },
+  {
+    "category": "AI",
+    "code": "OCR",
+    "title": "Optical Character Recognition (OCR)",
+    "description": "Detect and extract text from any image and convert the text into JSON format",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ocr.html",
+    "image_key": "AI/OCR.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\OCR.png"
+  },
+  {
+    "category": "AI",
+    "code": "OptVerse",
+    "title": "OptVerse",
+    "description": "",
+    "href": "",
+    "image_key": "AI/OptVerse.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\OptVerse.png"
+  },
+  {
+    "category": "AI",
+    "code": "pangu",
+    "title": "PanguLargeModels",
+    "description": "Reshape your industry with large AI models",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/pangu.html",
+    "image_key": "AI/pangu.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\pangu.png"
+  },
+  {
+    "category": "AI",
+    "code": "cbsqa",
+    "title": "Question Answering Bot (QABot)",
+    "description": "Build and manage intelligent Q&A bots",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbsqa.html",
+    "image_key": "AI/cbsqa.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\cbsqa.png"
+  },
+  {
+    "category": "AI",
+    "code": "asr",
+    "title": "Short Sentence Recognition",
+    "description": "Convert short audio files (up to a minute long) into text",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/asr.html",
+    "image_key": "AI/asr.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\asr.png"
+  },
+  {
+    "category": "AI",
+    "code": "sis",
+    "title": "sis",
+    "description": "",
+    "href": "",
+    "image_key": "AI/sis.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\AI\\sis.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "CSS",
+    "title": "Cloud Search Service (CSS)",
+    "description": "Query accurately by multiple conditions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/css.html",
+    "image_key": "Analytics/CSS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\CSS.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "CS",
+    "title": "Cloud Stream Service (CS)",
+    "description": "Process streaming data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cs.html",
+    "image_key": "Analytics/CS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\CS.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "CloudTable",
+    "title": "CloudTable",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/CloudTable.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\CloudTable.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DIS",
+    "title": "Data Ingestion Service (DIS)",
+    "description": "Ingest, process, and dump data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dis.html",
+    "image_key": "Analytics/DIS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DIS.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DLI",
+    "title": "Data Lake Insight (DLI)",
+    "description": "Analyze and process streaming and batch data",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dli.html",
+    "image_key": "Analytics/DLI.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DLI.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DLV",
+    "title": "Data Lake Visualization (DLV)",
+    "description": "Create dashboards to track and display complex data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dlv.html",
+    "image_key": "Analytics/DLV.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DLV.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DWS",
+    "title": "Data Warehouse Service (DWS)",
+    "description": "Give your warehouse market-leading performance, superlative stability, and on-demand scaling",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dws.html",
+    "image_key": "Analytics/DWS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DWS.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DataArtsFabric",
+    "title": "DataArts Fabric",
+    "description": "A comprehensive, one-stop platform for data and AI development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dataartsfabric.html",
+    "image_key": "Analytics/DataArtsFabric.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DataArtsFabric.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DataArts",
+    "title": "DataArts Studio",
+    "description": "Manage your data development and governance in one place",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dayu.html",
+    "image_key": "Analytics/DataArts.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DataArts.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "DataArts-Insight",
+    "title": "DataArts-Insight",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/DataArts-Insight.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\DataArts-Insight.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "FlexusCSS",
+    "title": "FlexusCSS",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/FlexusCSS.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\FlexusCSS.svg"
+  },
+  {
+    "category": "Analytics",
+    "code": "LakeFormation",
+    "title": "LakeFormation",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/LakeFormation.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\LakeFormation.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "Log",
+    "title": "Log",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/Log.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\Log.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "MapReduce",
+    "title": "MapReduce Service (MRS)",
+    "description": "Run open source analytics workloads on high-availability big data clusters",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mrs.html",
+    "image_key": "Analytics/MapReduce.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\MapReduce.png"
+  },
+  {
+    "category": "Analytics",
+    "code": "TICS",
+    "title": "TICS",
+    "description": "",
+    "href": "",
+    "image_key": "Analytics/TICS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Analytics\\TICS.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "AppStage",
+    "title": "AppStage",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/AppStage.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\AppStage.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "EDS",
+    "title": "EDS",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/EDS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\EDS.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "KooDrive",
+    "title": "KooDrive",
+    "description": "A digital content center for streamlined collaboration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koodrive.html",
+    "image_key": "aPaaS/KooDrive.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\KooDrive.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "KooMap",
+    "title": "KooMap",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/KooMap.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\KooMap.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "KooMessage",
+    "title": "KooMessage",
+    "description": "One-stop Rich Media Messaging",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koomessage.html",
+    "image_key": "aPaaS/KooMessage.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\KooMessage.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "KooPhone",
+    "title": "KooPhone",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/KooPhone.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\KooPhone.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "MSSE",
+    "title": "MSSE",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/MSSE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\MSSE.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "MSSI",
+    "title": "MSSI",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/MSSI.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\MSSI.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "OrgID",
+    "title": "OrgID",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/OrgID.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\OrgID.png"
+  },
+  {
+    "category": "aPaaS",
+    "code": "Versatile",
+    "title": "Versatile",
+    "description": "",
+    "href": "",
+    "image_key": "aPaaS/Versatile.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\aPaaS\\Versatile.svg"
+  },
+  {
+    "category": "Blockchain",
+    "code": "BCS",
+    "title": "Blockchain Service (BCS)",
+    "description": "Build powerful, secure blockchains",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/bcs.html",
+    "image_key": "Blockchain/BCS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Blockchain\\BCS.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "CEC",
+    "title": "Customer Engagement Center (CEC)",
+    "description": "A multi-channel contact center",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cec.html",
+    "image_key": "BusinessApplications/CEC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\CEC.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "DNS",
+    "title": "Domain Name Service (DNS)",
+    "description": "Highly available, scalable authoritative resolution",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dns.html",
+    "image_key": "BusinessApplications/DNS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\DNS.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "Domains",
+    "title": "Domains",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/Domains.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\Domains.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "EDCM",
+    "title": "Edge Data Center Management",
+    "description": "Remote cloud management for data center facilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/edcm.html",
+    "image_key": "BusinessApplications/EDCM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\EDCM.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "esm",
+    "title": "esm",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/esm.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\esm.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "HaydnCSF",
+    "title": "HaydnCSF",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/HaydnCSF.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\HaydnCSF.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "Meeting",
+    "title": "Huawei Cloud Meeting",
+    "description": "Enjoy ultra-HD videoconferencing that is both reliable and secure",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/meeting.html",
+    "image_key": "BusinessApplications/Meeting.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\Meeting.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "WeLink",
+    "title": "HUAWEI CLOUD WeLink",
+    "description": "Digital collaborative office platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/welink.html",
+    "image_key": "BusinessApplications/WeLink.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\WeLink.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "PrivateNumber",
+    "title": "PrivateNumber",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/PrivateNumber.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\PrivateNumber.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "ROMAConnect",
+    "title": "ROMA Connect",
+    "description": "Seamlessly integrate applications, messages, data, APIs, and devices",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/roma.html",
+    "image_key": "BusinessApplications/ROMAConnect.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\ROMAConnect.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "ROMAExchange",
+    "title": "ROMAExchange",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/ROMAExchange.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\ROMAExchange.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "VoiceCall",
+    "title": "VoiceCall",
+    "description": "",
+    "href": "",
+    "image_key": "BusinessApplications/VoiceCall.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\VoiceCall.png"
+  },
+  {
+    "category": "BusinessApplications",
+    "code": "Workspace",
+    "title": "Workspace",
+    "description": "Secure, efficient, and out-of-the-box virtual desktops on the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/workspace.html",
+    "image_key": "BusinessApplications/Workspace.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\BusinessApplications\\Workspace.png"
+  },
+  {
+    "category": "Compute",
+    "code": "AS",
+    "title": "Auto Scaling",
+    "description": "Adapt compute resources to changing demand",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/as.html",
+    "image_key": "Compute/AS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\AS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "BMS",
+    "title": "Bare Metal Server (BMS)",
+    "description": "Run services on dedicated, powerful physical servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/bms.html",
+    "image_key": "Compute/BMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\BMS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "CloudDC",
+    "title": "Cloud Data Center (CloudDC)",
+    "description": "Enable quick cloud adoption for your assets",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/clouddc.html",
+    "image_key": "Compute/CloudDC.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\CloudDC.svg"
+  },
+  {
+    "category": "Compute",
+    "code": "CPH",
+    "title": "Cloud Phone Host (CPH)",
+    "description": "Cloud servers with virtual phone functions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cph.html",
+    "image_key": "Compute/CPH.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\CPH.png"
+  },
+  {
+    "category": "Compute",
+    "code": "dcc",
+    "title": "Dedicated Computing Cluster (DCC)",
+    "description": "Physically isolate compute resource pools for your workloads",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcc.html",
+    "image_key": "Compute/dcc.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\dcc.png"
+  },
+  {
+    "category": "Compute",
+    "code": "DeH",
+    "title": "Dedicated Host (DeH)",
+    "description": "Ensure performance by keeping compute resources isolated",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/deh.html",
+    "image_key": "Compute/DeH.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\DeH.png"
+  },
+  {
+    "category": "Compute",
+    "code": "ECS",
+    "title": "Elastic Cloud Server (ECS)",
+    "description": "Get your own secure, scalable virtual servers in the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ecs.html",
+    "image_key": "Compute/ECS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\ECS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FACS",
+    "title": "FACS",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FACS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FACS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FCCI",
+    "title": "FCCI",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FCCI.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FCCI.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FlexusInsight",
+    "title": "FlexusInsight",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FlexusInsight.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FlexusInsight.svg"
+  },
+  {
+    "category": "Compute",
+    "code": "FlexusMeeting",
+    "title": "FlexusMeeting",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FlexusMeeting.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FlexusMeeting.svg"
+  },
+  {
+    "category": "Compute",
+    "code": "FlexusMetastudio",
+    "title": "FlexusMetastudio",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FlexusMetastudio.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FlexusMetastudio.svg"
+  },
+  {
+    "category": "Compute",
+    "code": "FlexusWorkspace",
+    "title": "FlexusWorkspace",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/FlexusWorkspace.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FlexusWorkspace.svg"
+  },
+  {
+    "category": "Compute",
+    "code": "FunctionGraph",
+    "title": "FunctionGraph",
+    "description": "Run your code without provisioning or managing servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/functiongraph.html",
+    "image_key": "Compute/FunctionGraph.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FunctionGraph.png"
+  },
+  {
+    "category": "Compute",
+    "code": "GACS",
+    "title": "GPU Accelerated Cloud Server (GACS)",
+    "description": "Get servers with excellent floating-point performance",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gpu.html",
+    "image_key": "Compute/GACS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\GACS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "Flexus",
+    "title": "Huawei Cloud Flexus",
+    "description": "Next-generation products with transcendent performance and experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus.html",
+    "image_key": "Compute/Flexus.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\Flexus.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FECSL",
+    "title": "Huawei Cloud Flexus L Instance",
+    "description": "Lightweight servers ready out-of-the-box",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-l.html",
+    "image_key": "Compute/FECSL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FECSL.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FRDS",
+    "title": "Huawei Cloud Flexus RDS",
+    "description": "Lightweight databases that are easy to set up and manage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-rds.html",
+    "image_key": "Compute/FRDS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FRDS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "FECSX",
+    "title": "Huawei Cloud Flexus X Instance",
+    "description": "Flexible compute, 6x the performance, and stellar experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-x.html",
+    "image_key": "Compute/FECSX.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\FECSX.png"
+  },
+  {
+    "category": "Compute",
+    "code": "HuaweiCloudEulerOS",
+    "title": "HuaweiCloudEulerOS",
+    "description": "",
+    "href": "",
+    "image_key": "Compute/HuaweiCloudEulerOS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\HuaweiCloudEulerOS.png"
+  },
+  {
+    "category": "Compute",
+    "code": "IMS",
+    "title": "Image Management Service (IMS)",
+    "description": "Create and deploy servers faster with images",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ims.html",
+    "image_key": "Compute/IMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Compute\\IMS.png"
+  },
+  {
+    "category": "Containers",
+    "code": "CCE",
+    "title": "Cloud Container Engine (CCE)",
+    "description": "Experience enterprise-class, managed Kubernetes service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cce.html",
+    "image_key": "Containers/CCE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Containers\\CCE.png"
+  },
+  {
+    "category": "Containers",
+    "code": "CCI",
+    "title": "Cloud Container Instance (CCI)",
+    "description": "Build applications efficiently with serverless containers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cci.html",
+    "image_key": "Containers/CCI.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Containers\\CCI.png"
+  },
+  {
+    "category": "Containers",
+    "code": "IEF",
+    "title": "IEF",
+    "description": "",
+    "href": "",
+    "image_key": "Containers/IEF.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Containers\\IEF.png"
+  },
+  {
+    "category": "Containers",
+    "code": "SWR",
+    "title": "SoftWare Repository for Container (SWR)",
+    "description": "Manage your container images easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/swr.html",
+    "image_key": "Containers/SWR.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Containers\\SWR.png"
+  },
+  {
+    "category": "Containers",
+    "code": "UCS",
+    "title": "Ubiquitous Cloud Native Service (UCS)",
+    "description": "Extend cloud native to where your business goes",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ucs.html",
+    "image_key": "Containers/UCS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Containers\\UCS.png"
+  },
+  {
+    "category": "ContentDeliveryEdgeComputing",
+    "code": "IES",
+    "title": "CloudPond",
+    "description": "Deploy integrated racks and cloud services on customer's facilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudpond.html",
+    "image_key": "ContentDeliveryEdgeComputing/IES.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ContentDeliveryEdgeComputing\\IES.png"
+  },
+  {
+    "category": "ContentDeliveryEdgeComputing",
+    "code": "CDN",
+    "title": "Content Delivery Network (CDN)",
+    "description": "Get content to users on this fast, scalable, and secure network",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cdn.html",
+    "image_key": "ContentDeliveryEdgeComputing/CDN.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ContentDeliveryEdgeComputing\\CDN.png"
+  },
+  {
+    "category": "ContentDeliveryEdgeComputing",
+    "code": "IEC",
+    "title": "Intelligent Edge Cloud (IEC)",
+    "description": "Deploy cloud services near you for low latency",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iec.html",
+    "image_key": "ContentDeliveryEdgeComputing/IEC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ContentDeliveryEdgeComputing\\IEC.png"
+  },
+  {
+    "category": "ContentDeliveryEdgeComputing",
+    "code": "WSA",
+    "title": "Whole Site Acceleration (WSA)",
+    "description": "Speed up customer access to both your static and dynamic content",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/wsa.html",
+    "image_key": "ContentDeliveryEdgeComputing/WSA.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ContentDeliveryEdgeComputing\\WSA.png"
+  },
+  {
+    "category": "Databases",
+    "code": "DAS",
+    "title": "Data Admin Service (DAS)",
+    "description": "Manage your online databases with ease",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/das.html",
+    "image_key": "Databases/DAS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\DAS.png"
+  },
+  {
+    "category": "Databases",
+    "code": "DRS",
+    "title": "Data Replication Service (DRS)",
+    "description": "Migrate your databases with minimal downtime",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/drs.html",
+    "image_key": "Databases/DRS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\DRS.png"
+  },
+  {
+    "category": "Databases",
+    "code": "UGO",
+    "title": "Database and Application Migration UGO",
+    "description": "Migrate heterogeneous database schemas",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ugo.html",
+    "image_key": "Databases/UGO.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\UGO.png"
+  },
+  {
+    "category": "Databases",
+    "code": "DDM",
+    "title": "Distributed Database Middleware (DDM)",
+    "description": "Scale out resources to handle massive volumes of concurrent requests",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ddm.html",
+    "image_key": "Databases/DDM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\DDM.png"
+  },
+  {
+    "category": "Databases",
+    "code": "DDS",
+    "title": "Document Database Service (DDS)",
+    "description": "A scalable document database deployed in a cluster or replica set",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dds.html",
+    "image_key": "Databases/DDS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\DDS.png"
+  },
+  {
+    "category": "Databases",
+    "code": "GaussDB",
+    "title": "GaussDB",
+    "description": "An enterprise-grade, distributed relational database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gaussdb.html",
+    "image_key": "Databases/GaussDB.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\GaussDB.png"
+  },
+  {
+    "category": "Databases",
+    "code": "GaussDBfornosql",
+    "title": "GeminiDB",
+    "description": "A cloud-native multi-model database compatible with mainstream NoSQL database protocols",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/geminidb.html",
+    "image_key": "Databases/GaussDBfornosql.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\GaussDBfornosql.png"
+  },
+  {
+    "category": "Databases",
+    "code": "RDSforMariaDB",
+    "title": "RDS for MariaDB",
+    "description": "Power up your fully managed MariaDB",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mariadb.html",
+    "image_key": "Databases/RDSforMariaDB.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\RDSforMariaDB.png"
+  },
+  {
+    "category": "Databases",
+    "code": "RDSforMySQL",
+    "title": "RDS for MySQL",
+    "description": "Power your LAMP stack with this popular, open-source database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mysql.html",
+    "image_key": "Databases/RDSforMySQL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\RDSforMySQL.png"
+  },
+  {
+    "category": "Databases",
+    "code": "RDSforPostgreSQL",
+    "title": "RDS for PostgreSQL",
+    "description": "An open-source database that ensures data reliability and integrity",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/pg.html",
+    "image_key": "Databases/RDSforPostgreSQL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\RDSforPostgreSQL.png"
+  },
+  {
+    "category": "Databases",
+    "code": "RDSforSQLServer",
+    "title": "RDSforSQLServer",
+    "description": "",
+    "href": "",
+    "image_key": "Databases/RDSforSQLServer.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\RDSforSQLServer.png"
+  },
+  {
+    "category": "Databases",
+    "code": "GaussDBforMySQL",
+    "title": "TaurusDB",
+    "description": "A MySQL-compatible enterprise-grade database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/taurusdb.html",
+    "image_key": "Databases/GaussDBforMySQL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Databases\\GaussDBforMySQL.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "AstroPro",
+    "title": "AstroPro",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/AstroPro.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\AstroPro.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CAE",
+    "title": "Cloud Application Engine (CAE)",
+    "description": "A service provides fully managed environment for deploying applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cae.html",
+    "image_key": "DeveloperServices/CAE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CAE.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArts",
+    "title": "CodeArts",
+    "description": "Develop software with built-in Huawei expertise",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/devcloud.html",
+    "image_key": "DeveloperServices/CodeArts.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArts.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsArtifact",
+    "title": "CodeArts Artifact",
+    "description": "Secure, reliable artifacts for software development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudrelease.html",
+    "image_key": "DeveloperServices/CodeArtsArtifact.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsArtifact.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsBuild",
+    "title": "CodeArts Build",
+    "description": "Build code with out-of-the-box capabilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudbuild.html",
+    "image_key": "DeveloperServices/CodeArtsBuild.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsBuild.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsCheck",
+    "title": "CodeArts Check",
+    "description": "Manage code quality with diverse standards, guidelines, and rules",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codecheck.html",
+    "image_key": "DeveloperServices/CodeArtsCheck.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsCheck.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsDeploy",
+    "title": "CodeArts Deploy",
+    "description": "Visualize and simplify code deployments",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/clouddeploy.html",
+    "image_key": "DeveloperServices/CodeArtsDeploy.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsDeploy.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "DevSecurity",
+    "title": "CodeArts Governance",
+    "description": "Identify open-source software risks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codeartsgovernance.html",
+    "image_key": "DeveloperServices/DevSecurity.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\DevSecurity.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsPerfTest",
+    "title": "CodeArts PerfTest",
+    "description": "Test the performance of your applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cpts.html",
+    "image_key": "DeveloperServices/CodeArtsPerfTest.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsPerfTest.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsPipeline",
+    "title": "CodeArts Pipeline",
+    "description": "Visualize and customize continuous delivery",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudpipeline.html",
+    "image_key": "DeveloperServices/CodeArtsPipeline.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsPipeline.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsRepo",
+    "title": "CodeArts Repo",
+    "description": "Host your code in private Git repositories",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codehub.html",
+    "image_key": "DeveloperServices/CodeArtsRepo.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsRepo.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsReq",
+    "title": "CodeArts Req",
+    "description": "Manage R&D requirements efficiently",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/projectman.html",
+    "image_key": "DeveloperServices/CodeArtsReq.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsReq.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsTestPlan",
+    "title": "CodeArts TestPlan",
+    "description": "A one-stop test management platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudtest.html",
+    "image_key": "DeveloperServices/CodeArtsTestPlan.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsTestPlan.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsIDE",
+    "title": "CodeArtsIDE",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/CodeArtsIDE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsIDE.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "CodeArtsIDEOnline",
+    "title": "CodeArtsIDEOnline",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/CodeArtsIDEOnline.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\CodeArtsIDEOnline.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "Flow",
+    "title": "Flow",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/Flow.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\Flow.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "AstroZero",
+    "title": "Huawei Cloud Astro Zero",
+    "description": "Develop in low code",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/appcube.html",
+    "image_key": "DeveloperServices/AstroZero.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\AstroZero.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "MSGSMS",
+    "title": "Message & SMS",
+    "description": "SMS solutions from multiple carriers and channels",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/msgsms.html",
+    "image_key": "DeveloperServices/MSGSMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\MSGSMS.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "Mirrors",
+    "title": "Mirrors",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/Mirrors.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\Mirrors.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "MobileAPPTest",
+    "title": "MobileAPPTest",
+    "description": "",
+    "href": "",
+    "image_key": "DeveloperServices/MobileAPPTest.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\MobileAPPTest.png"
+  },
+  {
+    "category": "DeveloperServices",
+    "code": "ServiceStage",
+    "title": "ServiceStage",
+    "description": "A one-stop PaaS service for enterprises",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/servicestage.html",
+    "image_key": "DeveloperServices/ServiceStage.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\DeveloperServices\\ServiceStage.png"
+  },
+  {
+    "category": "HuaweiCloudStack",
+    "code": "huaweicloudstack",
+    "title": "Huawei Cloud Stack",
+    "description": "An on-premises, full-stack cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/huaweicloudstack.html",
+    "image_key": "HuaweiCloudStack/huaweicloudstack.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\HuaweiCloudStack\\huaweicloudstack.png"
+  },
+  {
+    "category": "Industrialsoftware",
+    "code": "iDEE",
+    "title": "iDEE",
+    "description": "",
+    "href": "",
+    "image_key": "Industrialsoftware/iDEE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Industrialsoftware\\iDEE.png"
+  },
+  {
+    "category": "Industrialsoftware",
+    "code": "IDT",
+    "title": "IDT",
+    "description": "",
+    "href": "",
+    "image_key": "Industrialsoftware/IDT.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Industrialsoftware\\IDT.png"
+  },
+  {
+    "category": "Industrialsoftware",
+    "code": "IPDCenter",
+    "title": "IPDCenter",
+    "description": "",
+    "href": "",
+    "image_key": "Industrialsoftware/IPDCenter.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Industrialsoftware\\IPDCenter.png"
+  },
+  {
+    "category": "InternetofThings",
+    "code": "GSL",
+    "title": "Global SIM Link (GSL)",
+    "description": "Manage IoT SIM cards in one place",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gsl.html",
+    "image_key": "InternetofThings/GSL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\InternetofThings\\GSL.png"
+  },
+  {
+    "category": "InternetofThings",
+    "code": "IoTDA",
+    "title": "IoT Device Access (IoTDA)",
+    "description": "Access device fleets securely and reliably",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iotda.html",
+    "image_key": "InternetofThings/IoTDA.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\InternetofThings\\IoTDA.png"
+  },
+  {
+    "category": "InternetofThings",
+    "code": "IoTDM",
+    "title": "IoT Device Management (IoTDM)",
+    "description": "Access hundreds of millions of devices stably",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iot.html",
+    "image_key": "InternetofThings/IoTDM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\InternetofThings\\IoTDM.png"
+  },
+  {
+    "category": "InternetofThings",
+    "code": "IoTEdge",
+    "title": "IoTEdge",
+    "description": "",
+    "href": "",
+    "image_key": "InternetofThings/IoTEdge.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\InternetofThings\\IoTEdge.png"
+  },
+  {
+    "category": "InternetofThings",
+    "code": "IoTStage",
+    "title": "IoTStage",
+    "description": "",
+    "href": "",
+    "image_key": "InternetofThings/IoTStage.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\InternetofThings\\IoTStage.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "AOM",
+    "title": "Application Operations Management (AOM)",
+    "description": "A one-stop O&M platform for cloud resources and applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aom.html",
+    "image_key": "ManagementGovernance/AOM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\AOM.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "APM",
+    "title": "Application Performance Management (APM)",
+    "description": "Monitor application performance in near real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/apm.html",
+    "image_key": "ManagementGovernance/APM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\APM.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "CES",
+    "title": "Cloud Eye",
+    "description": "Monitor your cloud resources, events, and websites",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ces.html",
+    "image_key": "ManagementGovernance/CES.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\CES.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "COC",
+    "title": "Cloud Operations Center (COC)",
+    "description": "Enjoy secure, efficient, one-stop O&M services",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/coc.html",
+    "image_key": "ManagementGovernance/COC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\COC.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "CTS",
+    "title": "Cloud Trace Service (CTS)",
+    "description": "Track operations made on your cloud resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cts.html",
+    "image_key": "ManagementGovernance/CTS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\CTS.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "RMS",
+    "title": "Config",
+    "description": "Track global resource configurations and changes",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rms.html",
+    "image_key": "ManagementGovernance/RMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\RMS.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "IAM",
+    "title": "Identity and Access Management (IAM)",
+    "description": "Securely manage access to your services and resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iam.html",
+    "image_key": "ManagementGovernance/IAM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\IAM.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "LTS",
+    "title": "Log Tank Service (LTS)",
+    "description": "Collect, query, and store logs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/lts.html",
+    "image_key": "ManagementGovernance/LTS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\LTS.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "OneAccess",
+    "title": "OneAccess",
+    "description": "",
+    "href": "",
+    "image_key": "ManagementGovernance/OneAccess.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\OneAccess.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "OA",
+    "title": "Optimization Advisor (OA)",
+    "description": "Identify potential risks of cloud resources and get personalized recommendations",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/oa.html",
+    "image_key": "ManagementGovernance/OA.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\OA.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "Organizations",
+    "title": "Organizations",
+    "description": "Govern multiple accounts within your organization",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/organizations.html",
+    "image_key": "ManagementGovernance/Organizations.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\Organizations.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "RAM",
+    "title": "Resource Access Manager (RAM)",
+    "description": "Securely share resources across accounts",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ram.html",
+    "image_key": "ManagementGovernance/RAM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\RAM.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "RFS",
+    "title": "Resource Formation Service (RFS)",
+    "description": "Automatically build cloud service resources in batches",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aos.html",
+    "image_key": "ManagementGovernance/RFS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\RFS.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "RGC",
+    "title": "Resource Governance Center (RGC)",
+    "description": "Set up and govern a secure, scalable multi-account cloud environment",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rgc.html",
+    "image_key": "ManagementGovernance/RGC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\RGC.png"
+  },
+  {
+    "category": "ManagementGovernance",
+    "code": "SMN",
+    "title": "Simple Message Notification (SMN)",
+    "description": "Send messages to email addresses, phone numbers, and HTTP/HTTPS servers at scale",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/smn.html",
+    "image_key": "ManagementGovernance/SMN.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\ManagementGovernance\\SMN.png"
+  },
+  {
+    "category": "MediaServices",
+    "code": "Live",
+    "title": "Live",
+    "description": "Secure and reliable livestreaming with low latency",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/live.html",
+    "image_key": "MediaServices/Live.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\MediaServices\\Live.png"
+  },
+  {
+    "category": "MediaServices",
+    "code": "MPC",
+    "title": "Media Processing Center (MPC)",
+    "description": "Cost-effective, scalable media transcoding",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mpc.html",
+    "image_key": "MediaServices/MPC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\MediaServices\\MPC.png"
+  },
+  {
+    "category": "MediaServices",
+    "code": "MetaStudio",
+    "title": "MetaStudio",
+    "description": "One-stop digital content production pipeline",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/metastudio.html",
+    "image_key": "MediaServices/MetaStudio.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\MediaServices\\MetaStudio.png"
+  },
+  {
+    "category": "MediaServices",
+    "code": "VOD",
+    "title": "Video on Demand (VOD)",
+    "description": "Enjoy a secure, smooth, and customizable VOD service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vod.html",
+    "image_key": "MediaServices/VOD.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\MediaServices\\VOD.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "APIG",
+    "title": "API Gateway (APIG)",
+    "description": "Build, manage, and deploy APIs at any scale",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/apig.html",
+    "image_key": "Middleware/APIG.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\APIG.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "CSE",
+    "title": "Cloud Service Engine (CSE)",
+    "description": "Cover microservice application registration, discovery, configuration management, and governance",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cse.html",
+    "image_key": "Middleware/CSE.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\CSE.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "Redis",
+    "title": "Distributed Cache Service (DCS)",
+    "description": "An in-memory caching service compatible with Redis®",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcs.html",
+    "image_key": "Middleware/Redis.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\Redis.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "Memcached",
+    "title": "Distributed Cache Service (DCS) for Memcached",
+    "description": "A high-performance distributed caching system",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcsmem.html",
+    "image_key": "Middleware/Memcached.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\Memcached.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "DMS",
+    "title": "Distributed Message Service (DMS)",
+    "description": "A high-performance managed message queue service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dms.html",
+    "image_key": "Middleware/DMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\DMS.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "Kafka",
+    "title": "Distributed Message Service (DMS) for Kafka",
+    "description": "A fully managed, highly reliable message middleware service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dmskafka.html",
+    "image_key": "Middleware/Kafka.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\Kafka.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "RabbitMQ",
+    "title": "Distributed Message Service (DMS) for RabbitMQ",
+    "description": "Open-source compatibility, AMQP supported",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rabbitmq.html",
+    "image_key": "Middleware/RabbitMQ.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\RabbitMQ.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "ROCKETMQ",
+    "title": "Distributed Message Service (DMS) for RocketMQ",
+    "description": "Open-source compatibility, low latency, high reliability",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rocketmq.html",
+    "image_key": "Middleware/ROCKETMQ.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\ROCKETMQ.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "EG",
+    "title": "EG",
+    "description": "",
+    "href": "",
+    "image_key": "Middleware/EG.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\EG.png"
+  },
+  {
+    "category": "Middleware",
+    "code": "MAS",
+    "title": "Multi-Site High Availability Service (MAS)",
+    "description": "E2E service failover and DR drills",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mas.html",
+    "image_key": "Middleware/MAS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Middleware\\MAS.png"
+  },
+  {
+    "category": "Migration",
+    "code": "CDM",
+    "title": "Cloud Data Migration (CDM)",
+    "description": "Migrate data between homogeneous and heterogeneous sources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cdm.html",
+    "image_key": "Migration/CDM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Migration\\CDM.png"
+  },
+  {
+    "category": "Migration",
+    "code": "MGC",
+    "title": "Migration Center (MgC)",
+    "description": "Simplify and accelerate cloud migration and modernization",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mgc.html",
+    "image_key": "Migration/MGC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Migration\\MGC.png"
+  },
+  {
+    "category": "Migration",
+    "code": "OMS",
+    "title": "Object Storage Migration Service (OMS)",
+    "description": "Migrate data in object storage to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/oms.html",
+    "image_key": "Migration/OMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Migration\\OMS.png"
+  },
+  {
+    "category": "Migration",
+    "code": "SMS",
+    "title": "Server Migration Service (SMS)",
+    "description": "Migrate servers in IDC or other clouds to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sms.html",
+    "image_key": "Migration/SMS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Migration\\SMS.png"
+  },
+  {
+    "category": "Networking",
+    "code": "CC",
+    "title": "Cloud Connect",
+    "description": "Connect VPCs across regions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cc.html",
+    "image_key": "Networking/CC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\CC.png"
+  },
+  {
+    "category": "Networking",
+    "code": "DC",
+    "title": "Direct Connect",
+    "description": "Establish dedicated network connections to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dc.html",
+    "image_key": "Networking/DC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\DC.png"
+  },
+  {
+    "category": "Networking",
+    "code": "EIP",
+    "title": "Elastic IP (EIP)",
+    "description": "Create highly available systems with static public IP addresses",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/eip.html",
+    "image_key": "Networking/EIP.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\EIP.png"
+  },
+  {
+    "category": "Networking",
+    "code": "ELB",
+    "title": "Elastic Load Balance (ELB)",
+    "description": "Distribute incoming traffic across multiple backend servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/elb.html",
+    "image_key": "Networking/ELB.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\ELB.png"
+  },
+  {
+    "category": "Networking",
+    "code": "ER",
+    "title": "Enterprise Router",
+    "description": "Connect your VPCs and on-premises networks simply and easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/er.html",
+    "image_key": "Networking/ER.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\ER.png"
+  },
+  {
+    "category": "Networking",
+    "code": "ESW",
+    "title": "Enterprise Switch",
+    "description": "Connect cloud and on-premises networks at Layer 2",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/esw.html",
+    "image_key": "Networking/ESW.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\ESW.png"
+  },
+  {
+    "category": "Networking",
+    "code": "GA",
+    "title": "Global Accelerator",
+    "description": "Accelerate access over Huawei Cloud backbone network",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ga.html",
+    "image_key": "Networking/GA.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\GA.png"
+  },
+  {
+    "category": "Networking",
+    "code": "NAT",
+    "title": "NAT Gateway (NAT)",
+    "description": "Enable network address translation for cloud and on-premises servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/nat.html",
+    "image_key": "Networking/NAT.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\NAT.png"
+  },
+  {
+    "category": "Networking",
+    "code": "VPC",
+    "title": "Virtual Private Cloud (VPC)",
+    "description": "Guard your system with isolated, private networks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpc.html",
+    "image_key": "Networking/VPC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\VPC.png"
+  },
+  {
+    "category": "Networking",
+    "code": "VPN",
+    "title": "Virtual Private Network (VPN)",
+    "description": "Connect your local data center to the cloud through secure and reliable IPsec connections",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpn.html",
+    "image_key": "Networking/VPN.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\VPN.png"
+  },
+  {
+    "category": "Networking",
+    "code": "VPCEP",
+    "title": "VPC Endpoint (VPCEP)",
+    "description": "Set up private connections between VPCs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpcep.html",
+    "image_key": "Networking/VPCEP.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Networking\\VPCEP.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "AAD",
+    "title": "Anti-DDoS Service (AAD)",
+    "description": "Swiftly mitigate cyberattacks that could disrupt services",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aad.html",
+    "image_key": "SecurityCompliance/AAD.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\AAD.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "CBH",
+    "title": "Cloud Bastion Host (CBH)",
+    "description": "Manage servers, control permissions, and audit O&M",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbh.html",
+    "image_key": "SecurityCompliance/CBH.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\CBH.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "SSL",
+    "title": "Cloud Certificate & Manager (CCM)",
+    "description": "Manage SSL and private certificates",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ccm.html",
+    "image_key": "SecurityCompliance/SSL.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\SSL.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "CFW",
+    "title": "Cloud Firewall (CFW)",
+    "description": "Control traffic and prevent intrusions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cfw.html",
+    "image_key": "SecurityCompliance/CFW.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\CFW.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "DEW",
+    "title": "Data Encryption Workshop (DEW)",
+    "description": "Encrypt data and manage keys on the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dew.html",
+    "image_key": "SecurityCompliance/DEW.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\DEW.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "DSC",
+    "title": "Data Security Center (DSC)",
+    "description": "Cloud native data security governance platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dsc.html",
+    "image_key": "SecurityCompliance/DSC.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\DSC.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "DBSS",
+    "title": "Database Security Service (DBSS)",
+    "description": "Audit databases and detect SQL injections",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dbss.html",
+    "image_key": "SecurityCompliance/DBSS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\DBSS.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "EdgeSec",
+    "title": "Edge Security (EdgeSec)",
+    "description": "Protect edge applications while improving acceleration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/edgesec.html",
+    "image_key": "SecurityCompliance/EdgeSec.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\EdgeSec.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "HSS",
+    "title": "Host Security Service (HSS)",
+    "description": "Manage assets, prevent intrusions, and eliminate vulnerabilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/hss.html",
+    "image_key": "SecurityCompliance/HSS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\HSS.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "IVM",
+    "title": "Industry Video Management Service (IVM)",
+    "description": "Unified device management for machine vision equipment",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ivm.html",
+    "image_key": "SecurityCompliance/IVM.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\IVM.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "SecMaster",
+    "title": "SecMaster",
+    "description": "Intelligent, next-gen cloud native security operations center",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/secmaster.html",
+    "image_key": "SecurityCompliance/SecMaster.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\SecMaster.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "VSS",
+    "title": "VSS",
+    "description": "",
+    "href": "",
+    "image_key": "SecurityCompliance/VSS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\VSS.png"
+  },
+  {
+    "category": "SecurityCompliance",
+    "code": "WAF",
+    "title": "Web Application Firewall (WAF)",
+    "description": "Shield web apps and websites against emerging threats 24/7",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/waf.html",
+    "image_key": "SecurityCompliance/WAF.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\SecurityCompliance\\WAF.png"
+  },
+  {
+    "category": "Storage",
+    "code": "SDRS",
+    "title": "Business Recovery Service (BRS)",
+    "description": "Enjoy cross-AZ, zero-RPO data protection for your ECSs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sdrs.html",
+    "image_key": "Storage/SDRS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\SDRS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "CBR",
+    "title": "Cloud Backup and Recovery (CBR)",
+    "description": "Centrally manage backups of your cloud and on-premises resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbr.html",
+    "image_key": "Storage/CBR.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\CBR.png"
+  },
+  {
+    "category": "Storage",
+    "code": "CSBS",
+    "title": "Cloud Server Backup Service (CSBS)",
+    "description": "Consistently back up disks on your cloud servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/csbs.html",
+    "image_key": "Storage/CSBS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\CSBS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "CSG",
+    "title": "CSG",
+    "description": "",
+    "href": "",
+    "image_key": "Storage/CSG.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\CSG.png"
+  },
+  {
+    "category": "Storage",
+    "code": "DES",
+    "title": "Data Express Service (DES)",
+    "description": "Transmit massive volumes of data safely and quickly to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/des.html",
+    "image_key": "Storage/DES.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\DES.png"
+  },
+  {
+    "category": "Storage",
+    "code": "DSS",
+    "title": "Dedicated Distributed Storage Service (DSS)",
+    "description": "Get dedicated, physical block storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dss.html",
+    "image_key": "Storage/DSS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\DSS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "DWR",
+    "title": "DWR",
+    "description": "",
+    "href": "",
+    "image_key": "Storage/DWR.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\DWR.png"
+  },
+  {
+    "category": "Storage",
+    "code": "EVS",
+    "title": "Elastic Volume Service (EVS)",
+    "description": "Give your servers persistent block storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/evs.html",
+    "image_key": "Storage/EVS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\EVS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "EMS",
+    "title": "EMS",
+    "description": "",
+    "href": "",
+    "image_key": "Storage/EMS.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\EMS.svg"
+  },
+  {
+    "category": "Storage",
+    "code": "FlexusOBS",
+    "title": "FlexusOBS",
+    "description": "",
+    "href": "",
+    "image_key": "Storage/FlexusOBS.svg",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\FlexusOBS.svg"
+  },
+  {
+    "category": "Storage",
+    "code": "KVS",
+    "title": "KVS",
+    "description": "",
+    "href": "",
+    "image_key": "Storage/KVS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\KVS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "OBS",
+    "title": "Object Storage Service (OBS)",
+    "description": "Take advantage of infinitely scalable, durable, and secure object storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/obs.html",
+    "image_key": "Storage/OBS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\OBS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "SFS",
+    "title": "Scalable File Service (SFS)",
+    "description": "Enjoy fully hosted NAS file systems",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sfs.html",
+    "image_key": "Storage/SFS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\SFS.png"
+  },
+  {
+    "category": "Storage",
+    "code": "SFSTurbo",
+    "title": "Scalable File Service Turbo (SFS Turbo)",
+    "description": "Enjoy high-bandwidth, low-latency access to fully-hosted shared file systems",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sfsturbo.html",
+    "image_key": "Storage/SFSTurbo.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\SFSTurbo.png"
+  },
+  {
+    "category": "Storage",
+    "code": "VBS",
+    "title": "Volume Backup Service (VBS)",
+    "description": "Back up cloud disks on running servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vbs.html",
+    "image_key": "Storage/VBS.png",
+    "path": "D:\\Codex\\云相关的操作\\Draw.IO\\official-huaweicloud-product-icons\\images\\Storage\\VBS.png"
+  }
+]

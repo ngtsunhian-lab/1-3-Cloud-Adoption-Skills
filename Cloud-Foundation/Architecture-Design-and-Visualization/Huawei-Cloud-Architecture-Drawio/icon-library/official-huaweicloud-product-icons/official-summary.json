@@ -1,0 +1,26 @@
+{
+  "icons": 201,
+  "categories": {
+    "AI": 18,
+    "Analytics": 15,
+    "Blockchain": 1,
+    "BusinessApplications": 13,
+    "Compute": 21,
+    "Containers": 5,
+    "ContentDeliveryEdgeComputing": 4,
+    "Databases": 12,
+    "DeveloperServices": 21,
+    "HuaweiCloudStack": 1,
+    "Industrialsoftware": 3,
+    "InternetofThings": 5,
+    "ManagementGovernance": 15,
+    "MediaServices": 4,
+    "Middleware": 10,
+    "Migration": 4,
+    "Networking": 11,
+    "SecurityCompliance": 13,
+    "Storage": 15,
+    "aPaaS": 10
+  },
+  "drawio_libraries": 21
+}

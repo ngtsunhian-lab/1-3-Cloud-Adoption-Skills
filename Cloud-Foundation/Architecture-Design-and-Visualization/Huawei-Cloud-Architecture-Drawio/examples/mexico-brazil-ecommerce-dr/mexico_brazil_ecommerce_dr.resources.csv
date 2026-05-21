@@ -1,0 +1,29 @@
+﻿node_id,resource_key,resource_title,label_or_business_role,group_id,group_label,quantity,source
+dns,DNS,Domain Name Service (DNS),DNS failover,global,"Global traffic, security and protection",1,official-huaweicloud-icon
+cdn,CDN,Content Delivery Network (CDN),CDN static acceleration,global,"Global traffic, security and protection",1,official-huaweicloud-icon
+ga,GA,Global Accelerator,Global Accelerator,global,"Global traffic, security and protection",1,official-huaweicloud-icon
+waf,WAF,Web Application Firewall (WAF),WAF web protection,global,"Global traffic, security and protection",1,official-huaweicloud-icon
+cfw_global,CFW,Cloud Firewall (CFW),Cloud Firewall policy,global,"Global traffic, security and protection",1,official-huaweicloud-icon
+mx_cfw,CFW,Cloud Firewall (CFW),Cloud Firewall,mx_public,Public subnet,1,official-huaweicloud-icon
+mx_elb,ELB,Elastic Load Balance (ELB),Public ELB,mx_public,Public subnet,1,official-huaweicloud-icon
+mx_apig,APIG,API Gateway (APIG),API Gateway,mx_public,Public subnet,1,official-huaweicloud-icon
+mx_cce,CCE,Cloud Container Engine (CCE),CCE e-commerce services,mx_app,Application subnet,1,official-huaweicloud-icon
+mx_ecs,ECS,Elastic Cloud Server (ECS),ECS admin / jobs,mx_app,Application subnet,1,official-huaweicloud-icon
+mx_redis,REDIS,Distributed Cache Service (DCS),DCS Redis,mx_data,Data subnet,1,official-huaweicloud-icon
+mx_rds,RDSFORMYSQL,RDS for MySQL,RDS MySQL primary,mx_data,Data subnet,1,official-huaweicloud-icon
+mx_obs,OBS,Object Storage Service (OBS),OBS product images,mx_data,Data subnet,1,official-huaweicloud-icon
+br_cfw,CFW,Cloud Firewall (CFW),Cloud Firewall,br_public,Public subnet,1,official-huaweicloud-icon
+br_elb,ELB,Elastic Load Balance (ELB),Standby ELB,br_public,Public subnet,1,official-huaweicloud-icon
+br_apig,APIG,API Gateway (APIG),Standby API Gateway,br_public,Public subnet,1,official-huaweicloud-icon
+br_cce,CCE,Cloud Container Engine (CCE),CCE warm standby,br_app,Application subnet,1,official-huaweicloud-icon
+br_ecs,ECS,Elastic Cloud Server (ECS),ECS DR jobs,br_app,Application subnet,1,official-huaweicloud-icon
+br_redis,REDIS,Distributed Cache Service (DCS),DCS Redis standby,br_data,Data subnet,1,official-huaweicloud-icon
+br_rds,RDSFORMYSQL,RDS for MySQL,RDS MySQL standby,br_data,Data subnet,1,official-huaweicloud-icon
+br_obs,OBS,Object Storage Service (OBS),OBS replicated objects,br_data,Data subnet,1,official-huaweicloud-icon
+dc,DC,Direct Connect,Private cross-region connectivity,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+drs,DRS,Data Replication Service (DRS),DRS database replication,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+cbr,CBR,Cloud Backup and Recovery (CBR),CBR backup copy,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+ces,CES,Cloud Eye,Cloud Eye,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+lts,LTS,Log Tank Service (LTS),LTS logs,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+smn,SMN,Simple Message Notification (SMN),SMN alerts,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon
+iam,IAM,Identity and Access Management (IAM),IAM least-privilege access,ops,"Cross-region replication, monitoring and governance",1,official-huaweicloud-icon

@@ -1,0 +1,218 @@
+[
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "GaussDB",
+    "description": "An enterprise-grade, distributed relational database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Virtual Private Cloud (VPC)",
+    "description": "Guard your system with isolated, private networks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Object Storage Service (OBS)",
+    "description": "Take advantage of infinitely scalable, durable, and secure object storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "ModelArts",
+    "description": "Build, train, and deploy machine learning models quickly and easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Elastic Cloud Server (ECS)",
+    "description": "Get your own secure, scalable virtual servers in the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Huawei Cloud Flexus",
+    "description": "Next-generation products with transcendent performance and experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "PanguLargeModels",
+    "description": "Reshape your industry with large AI models",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/pangu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "MaaS",
+    "description": "Ultimate Performance, Intuitive Tokens Service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/maas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/MaaS.png",
+    "image_key": "AI/MaaS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Elastic Load Balance (ELB)",
+    "description": "Distribute incoming traffic across multiple backend servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Cloud Search Service (CSS)",
+    "description": "Query accurately by multiple conditions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/css.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "KooDrive",
+    "description": "A digital content center for streamlined collaboration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Cloud Container Engine (CCE)",
+    "description": "Experience enterprise-class, managed Kubernetes service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Question Answering Bot (QABot)",
+    "description": "Build and manage intelligent Q&A bots",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbsqa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/cbsqa.png",
+    "image_key": "AI/cbsqa.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Optical Character Recognition (OCR)",
+    "description": "Detect and extract text from any image and convert the text into JSON format",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ocr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/OCR.png",
+    "image_key": "AI/OCR.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Content Moderation",
+    "description": "Detect inappropriate content in images, text, and videos",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/moderation.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Moderation.png",
+    "image_key": "AI/Moderation.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "MapReduce Service (MRS)",
+    "description": "Run open source analytics workloads on high-availability big data clusters",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/MapReduce.png",
+    "image_key": "Analytics/MapReduce.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Short Sentence Recognition",
+    "description": "Convert short audio files (up to a minute long) into text",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/asr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/asr.png",
+    "image_key": "AI/asr.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Cloud Stream Service (CS)",
+    "description": "Process streaming data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CS.png",
+    "image_key": "Analytics/CS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Data Lake Insight (DLI)",
+    "description": "Analyze and process streaming and batch data",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dli.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLI.png",
+    "image_key": "Analytics/DLI.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "EIHealth",
+    "description": "Use AI to facilitate genomics, drug discovery, and medical imaging",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/eihealth.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/eihealth.png",
+    "image_key": "AI/eihealth.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Intelligent Video Analysis Service",
+    "description": "VIAS is a comprehensive solution for AI-driven video analytics, event detection",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vias.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/VIAS.png",
+    "image_key": "AI/VIAS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Huawei HiLens (HiLens)",
+    "description": "Use this platform for multimodal AI development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/hilens.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/hilens.png",
+    "image_key": "AI/hilens.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Image Recognition",
+    "description": "Identify visual content in images",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/image.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Image.png",
+    "image_key": "AI/Image.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Graph Engine Service (GES)",
+    "description": "Query and analyze graph-structure data based on relationships",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ges.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ges.png",
+    "image_key": "AI/ges.png"
+  }
+]

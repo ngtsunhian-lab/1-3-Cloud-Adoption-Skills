@@ -1,0 +1,95 @@
+{
+  "title": "Huawei Cloud Mexico-Brazil E-commerce Disaster Recovery Architecture",
+  "style": "color",
+  "groups": [
+    { "id": "global", "type": "CLOUD", "label": "Global traffic, security and protection", "x": 40, "y": 40, "w": 1060, "h": 170 },
+
+    { "id": "mx_region", "type": "REGION", "label": "Mexico Region - primary site", "x": 40, "y": 260, "w": 700, "h": 700 },
+    { "id": "mx_vpc", "type": "VPC", "label": "Mexico production VPC", "parent": "mx_region", "x": 70, "y": 300, "w": 640, "h": 620 },
+    { "id": "mx_public", "type": "SUBNET", "label": "Public subnet", "parent": "mx_vpc", "x": 100, "y": 350, "w": 580, "h": 130 },
+    { "id": "mx_app", "type": "SUBNET", "label": "Application subnet", "parent": "mx_vpc", "x": 100, "y": 510, "w": 580, "h": 150 },
+    { "id": "mx_data", "type": "SUBNET", "label": "Data subnet", "parent": "mx_vpc", "x": 100, "y": 700, "w": 580, "h": 180 },
+
+    { "id": "br_region", "type": "REGION", "label": "Brazil Region - disaster recovery site", "x": 800, "y": 260, "w": 700, "h": 700 },
+    { "id": "br_vpc", "type": "VPC", "label": "Brazil DR VPC", "parent": "br_region", "x": 830, "y": 300, "w": 640, "h": 620 },
+    { "id": "br_public", "type": "SUBNET", "label": "Public subnet", "parent": "br_vpc", "x": 860, "y": 350, "w": 580, "h": 130 },
+    { "id": "br_app", "type": "SUBNET", "label": "Application subnet", "parent": "br_vpc", "x": 860, "y": 510, "w": 580, "h": 150 },
+    { "id": "br_data", "type": "SUBNET", "label": "Data subnet", "parent": "br_vpc", "x": 860, "y": 700, "w": 580, "h": 180 },
+
+    { "id": "ops", "type": "CLOUD", "label": "Cross-region replication, monitoring and governance", "x": 360, "y": 1010, "w": 820, "h": 210 }
+  ],
+  "nodes": [
+    { "id": "dns", "service": "DNS", "label": "DNS failover", "group": "global", "x": 110, "y": 90 },
+    { "id": "cdn", "service": "CDN", "label": "CDN static acceleration", "group": "global", "x": 260, "y": 90 },
+    { "id": "ga", "service": "GA", "label": "Global Accelerator", "group": "global", "x": 410, "y": 90 },
+    { "id": "waf", "service": "WAF", "label": "WAF web protection", "group": "global", "x": 560, "y": 90 },
+    { "id": "cfw_global", "service": "CFW", "label": "Cloud Firewall policy", "group": "global", "x": 710, "y": 90 },
+
+    { "id": "mx_cfw", "service": "CFW", "label": "Cloud Firewall", "group": "mx_public", "x": 150, "y": 385 },
+    { "id": "mx_elb", "service": "ELB", "label": "Public ELB", "group": "mx_public", "x": 300, "y": 385 },
+    { "id": "mx_apig", "service": "APIG", "label": "API Gateway", "group": "mx_public", "x": 450, "y": 385 },
+    { "id": "mx_cce", "service": "CCE", "label": "CCE e-commerce services", "group": "mx_app", "x": 210, "y": 555 },
+    { "id": "mx_ecs", "service": "ECS", "label": "ECS admin / jobs", "group": "mx_app", "x": 410, "y": 555 },
+    { "id": "mx_redis", "service": "DCS", "label": "DCS Redis", "group": "mx_data", "x": 165, "y": 745 },
+    { "id": "mx_rds", "service": "RDS", "label": "RDS MySQL primary", "group": "mx_data", "x": 320, "y": 745 },
+    { "id": "mx_obs", "service": "OBS", "label": "OBS product images", "group": "mx_data", "x": 475, "y": 745 },
+
+    { "id": "br_cfw", "service": "CFW", "label": "Cloud Firewall", "group": "br_public", "x": 910, "y": 385 },
+    { "id": "br_elb", "service": "ELB", "label": "Standby ELB", "group": "br_public", "x": 1060, "y": 385 },
+    { "id": "br_apig", "service": "APIG", "label": "Standby API Gateway", "group": "br_public", "x": 1210, "y": 385 },
+    { "id": "br_cce", "service": "CCE", "label": "CCE warm standby", "group": "br_app", "x": 970, "y": 555 },
+    { "id": "br_ecs", "service": "ECS", "label": "ECS DR jobs", "group": "br_app", "x": 1170, "y": 555 },
+    { "id": "br_redis", "service": "DCS", "label": "DCS Redis standby", "group": "br_data", "x": 925, "y": 745 },
+    { "id": "br_rds", "service": "RDS", "label": "RDS MySQL standby", "group": "br_data", "x": 1080, "y": 745 },
+    { "id": "br_obs", "service": "OBS", "label": "OBS replicated objects", "group": "br_data", "x": 1235, "y": 745 },
+
+    { "id": "dc", "service": "DC", "label": "Private cross-region connectivity", "group": "ops", "x": 430, "y": 1060 },
+    { "id": "drs", "service": "DRS", "label": "DRS database replication", "group": "ops", "x": 580, "y": 1060 },
+    { "id": "cbr", "service": "CBR", "label": "CBR backup copy", "group": "ops", "x": 730, "y": 1060 },
+    { "id": "ces", "service": "CES", "label": "Cloud Eye", "group": "ops", "x": 880, "y": 1060 },
+    { "id": "lts", "service": "LTS", "label": "LTS logs", "group": "ops", "x": 1030, "y": 1060 },
+    { "id": "smn", "service": "SMN", "label": "SMN alerts", "group": "ops", "x": 805, "y": 1140 },
+    { "id": "iam", "service": "IAM", "label": "IAM least-privilege access", "group": "ops", "x": 955, "y": 1140 }
+  ],
+  "edges": [
+    { "from": "dns", "to": "cdn", "label": "customer traffic" },
+    { "from": "cdn", "to": "ga" },
+    { "from": "ga", "to": "waf" },
+    { "from": "waf", "to": "cfw_global" },
+    { "from": "cfw_global", "to": "mx_cfw", "label": "active route" },
+    { "from": "cfw_global", "to": "br_cfw", "label": "failover route" },
+
+    { "from": "mx_cfw", "to": "mx_elb" },
+    { "from": "mx_cfw", "to": "mx_apig" },
+    { "from": "mx_elb", "to": "mx_cce" },
+    { "from": "mx_apig", "to": "mx_cce" },
+    { "from": "mx_cce", "to": "mx_redis" },
+    { "from": "mx_cce", "to": "mx_rds" },
+    { "from": "mx_ecs", "to": "mx_rds", "label": "admin jobs" },
+    { "from": "mx_cce", "to": "mx_obs" },
+
+    { "from": "br_cfw", "to": "br_elb" },
+    { "from": "br_cfw", "to": "br_apig" },
+    { "from": "br_elb", "to": "br_cce" },
+    { "from": "br_apig", "to": "br_cce" },
+    { "from": "br_cce", "to": "br_redis" },
+    { "from": "br_cce", "to": "br_rds" },
+    { "from": "br_ecs", "to": "br_rds", "label": "DR jobs" },
+    { "from": "br_cce", "to": "br_obs" },
+
+    { "from": "mx_rds", "to": "drs", "label": "primary DB" },
+    { "from": "drs", "to": "br_rds", "label": "real-time replication" },
+    { "from": "mx_obs", "to": "br_obs", "label": "object replication" },
+    { "from": "mx_obs", "to": "cbr", "label": "backup source" },
+    { "from": "cbr", "to": "br_obs", "label": "backup copy" },
+    { "from": "dc", "to": "mx_cce", "label": "private sync" },
+    { "from": "dc", "to": "br_cce", "label": "private sync" },
+    { "from": "mx_cce", "to": "ces" },
+    { "from": "br_cce", "to": "ces" },
+    { "from": "mx_cce", "to": "lts" },
+    { "from": "br_cce", "to": "lts" },
+    { "from": "ces", "to": "smn", "label": "alarm" },
+    { "from": "iam", "to": "mx_cce", "label": "access control" },
+    { "from": "iam", "to": "br_cce", "label": "access control" }
+  ]
+}

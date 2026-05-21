@@ -6,6 +6,7 @@ This domain contains Level 2 use cases for foundational Huawei Cloud adoption sk
 
 - [Landing Zone and Organization Management](./Landing-Zone-and-Organization-Management/README.md): Build the account, organization, IAM, and governance baseline for multi-account cloud environments.
 - [Automation and IaC](./Automation-and-IaC/README.md): Standardize environment delivery, consistency checks, and drift control through automation and infrastructure as code.
+- [Architecture Design and Visualization](./Architecture-Design-and-Visualization/README.md): Create reusable Huawei Cloud architecture diagrams, icon libraries, and review-ready visual assets.
 - [Cross-Cloud and Hybrid Network](./Cross-Cloud-and-Hybrid-Network/README.md): Design and operate network connectivity across on-premises, Huawei Cloud, and other clouds.
 - [DR and Backup](./DR-and-Backup/README.md): Define backup, disaster recovery, and business continuity capabilities for critical workloads.
 - [Security Foundation](./Security-Foundation/README.md): Establish core security baselines, protection controls, auditability, and compliance readiness.

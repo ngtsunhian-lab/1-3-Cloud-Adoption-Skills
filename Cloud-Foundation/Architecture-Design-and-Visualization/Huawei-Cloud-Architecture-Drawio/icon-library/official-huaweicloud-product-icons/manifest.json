@@ -1,0 +1,4628 @@
+[
+  {
+    "source": "china-zh-cn",
+    "category": "CDN与边缘计算",
+    "title": "CloudPond",
+    "description": "将云基础设施部署到机房用于边缘计算",
+    "href": "https://www.huaweicloud.com/product/ies.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IES.png",
+    "image_key": "ContentDeliveryEdgeComputing/IES.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "CDN与边缘计算",
+    "title": "全站加速 WSA",
+    "description": "提升网络传输的性能、稳定性和访问体验",
+    "href": "https://www.huaweicloud.com/product/wsa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/WSA.png",
+    "image_key": "ContentDeliveryEdgeComputing/WSA.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "CDN与边缘计算",
+    "title": "内容分发网络 CDN",
+    "description": "就近获得所需内容，改善网络拥挤状况",
+    "href": "https://www.huaweicloud.com/product/cdn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/CDN.png",
+    "image_key": "ContentDeliveryEdgeComputing/CDN.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "CDN与边缘计算",
+    "title": "智能边缘云 IEC",
+    "description": "部署在距用户更近的位置，提供低时延体验",
+    "href": "https://www.huaweicloud.com/product/iec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IEC.png",
+    "image_key": "ContentDeliveryEdgeComputing/IEC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "DDoS防护 AAD",
+    "description": "快速缓解对业务造成瘫痪的网络攻击",
+    "href": "https://www.huaweicloud.com/product/aad.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/AAD.png",
+    "image_key": "SecurityCompliance/AAD.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "Flexus云数据库RDS",
+    "description": "基于开源MySQL内核的轻量级数据库",
+    "href": "https://www.huaweicloud.com/product/flexus-rds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FRDS.png",
+    "image_key": "Compute/FRDS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "Flexus企业搜索服务",
+    "description": "基于开源Elasticsearch提供在线分布式搜索",
+    "href": "https://www.huaweicloud.com/product/flexus-search-service.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/FlexusCSS.svg",
+    "image_key": "Analytics/FlexusCSS.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "Flexus智能数据洞察",
+    "description": "支撑业务实时高效决策的BI服务",
+    "href": "https://www.huaweicloud.com/product/flexus-intelligent-data-insight.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FlexusInsight.svg",
+    "image_key": "Compute/FlexusInsight.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "MapReduce服务 MRS",
+    "description": "企业级大数据集群云服务",
+    "href": "https://www.huaweicloud.com/product/mrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/MapReduce.png",
+    "image_key": "Analytics/MapReduce.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "Web应用防火墙 WAF",
+    "description": "识别恶意请求特征和防御未知威胁",
+    "href": "https://www.huaweicloud.com/product/waf.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/WAF.png",
+    "image_key": "SecurityCompliance/WAF.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云堡垒机 CBH",
+    "description": "主机管理、权限控制、运维审计",
+    "href": "https://www.huaweicloud.com/product/cbh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CBH.png",
+    "image_key": "SecurityCompliance/CBH.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云搜索服务 CSS",
+    "description": "提供多条件检索与分析能力",
+    "href": "https://www.huaweicloud.com/product/es.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 GaussDB",
+    "description": "新一代企业级分布式关系型数据库产品",
+    "href": "https://www.huaweicloud.com/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 GeminiDB",
+    "description": "云原生多模数据库，兼容主流NoSQL协议",
+    "href": "https://www.huaweicloud.com/product/geminidb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBfornosql.png",
+    "image_key": "Databases/GaussDBfornosql.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 RDS for MariaDB",
+    "description": "开源数据库、即开即用、稳定可靠",
+    "href": "https://www.huaweicloud.com/product/mariadb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMariaDB.png",
+    "image_key": "Databases/RDSforMariaDB.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 RDS for MySQL",
+    "description": "稳定可靠、安全运行、弹性伸缩",
+    "href": "https://www.huaweicloud.com/product/mysql.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMySQL.png",
+    "image_key": "Databases/RDSforMySQL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 RDS for PostgreSQL",
+    "description": "开源数据库，保证数据的可靠性和完整性",
+    "href": "https://www.huaweicloud.com/product/pg.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforPostgreSQL.png",
+    "image_key": "Databases/RDSforPostgreSQL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 RDS for SQLServer",
+    "description": "世界上广受欢迎的商用关系型数据库之一",
+    "href": "https://www.huaweicloud.com/product/mssql.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforSQLServer.png",
+    "image_key": "Databases/RDSforSQLServer.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云数据库 TaurusDB",
+    "description": "新一代完全兼容MySQL的企业级数据库",
+    "href": "https://www.huaweicloud.com/product/taurusdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBforMySQL.png",
+    "image_key": "Databases/GaussDBforMySQL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云证书与管理服务 CCM",
+    "description": "SSL证书和私有证书管理",
+    "href": "https://www.huaweicloud.com/product/ccm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SSL.png",
+    "image_key": "SecurityCompliance/SSL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "云防火墙 CFW",
+    "description": "网络流量管控与入侵安全防护",
+    "href": "https://www.huaweicloud.com/product/cfw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CFW.png",
+    "image_key": "SecurityCompliance/CFW.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "交换数据空间 EDS",
+    "description": "主权可控的数据安全交换服务",
+    "href": "",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/EDS.png",
+    "image_key": "aPaaS/EDS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "企业主机安全 HSS",
+    "description": "服务器贴身安全管家",
+    "href": "https://www.huaweicloud.com/product/hss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/HSS.png",
+    "image_key": "SecurityCompliance/HSS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "分布式数据库中间件 DDM",
+    "description": "突破容量和性能瓶颈，支持高并发访问",
+    "href": "https://www.huaweicloud.com/product/ddm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDM.png",
+    "image_key": "Databases/DDM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "分布式缓存服务 DCS",
+    "description": "兼容Redis®的高速内存数据处理引擎",
+    "href": "https://www.huaweicloud.com/product/dcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Redis.png",
+    "image_key": "Middleware/Redis.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "区块链服务 BCS",
+    "description": "高性能、高安全的区块链技术平台服务",
+    "href": "https://www.huaweicloud.com/product/bcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Blockchain/BCS.png",
+    "image_key": "Blockchain/BCS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "可信智能计算服务 TICS",
+    "description": "一站式数据可信流通平台服务",
+    "href": "https://www.huaweicloud.com/product/tics.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/TICS.png",
+    "image_key": "Analytics/TICS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "安全云脑 SecMaster",
+    "description": "云原生的新一代智能安全运营中心",
+    "href": "https://www.huaweicloud.com/product/secmaster.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SecMaster.png",
+    "image_key": "SecurityCompliance/SecMaster.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "实时流计算服务 CS",
+    "description": "实时大数据分析平台",
+    "href": "https://www.huaweicloud.com/product/cs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CS.png",
+    "image_key": "Analytics/CS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "密码安全中心 DEW",
+    "description": "云上数据加密和密钥托管服务",
+    "href": "https://www.huaweicloud.com/product/dew.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DEW.png",
+    "image_key": "SecurityCompliance/DEW.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据仓库服务 DWS",
+    "description": "极致性能、稳定、按需扩展的数据仓库",
+    "href": "https://www.huaweicloud.com/product/dws.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DWS.png",
+    "image_key": "Analytics/DWS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据可视化 DLV",
+    "description": "提供可视化组件定制和应用数据大屏",
+    "href": "https://www.huaweicloud.com/product/dlv.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLV.png",
+    "image_key": "Analytics/DLV.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据复制服务 DRS",
+    "description": "业务不停机中完成数据库迁移上云",
+    "href": "https://www.huaweicloud.com/product/drs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DRS.png",
+    "image_key": "Databases/DRS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据安全中心 DSC",
+    "description": "云原生数据安全治理平台",
+    "href": "https://www.huaweicloud.com/product/dsc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DSC.png",
+    "image_key": "SecurityCompliance/DSC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据库和应用迁移 UGO",
+    "description": "异构数据库结构和应用迁移的专业工具",
+    "href": "https://www.huaweicloud.com/product/ugo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/UGO.png",
+    "image_key": "Databases/UGO.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据库安全服务 DBSS",
+    "description": "数据库审计，SQL注入攻击检测",
+    "href": "https://www.huaweicloud.com/product/dbss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DBSS.png",
+    "image_key": "SecurityCompliance/DBSS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据接入服务 DIS",
+    "description": "实时数据接入、处理、转储服务",
+    "href": "https://www.huaweicloud.com/product/dis.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DIS.png",
+    "image_key": "Analytics/DIS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据治理中心 DataArts Studio",
+    "description": "一站式数据开发与治理平台",
+    "href": "https://www.huaweicloud.com/product/dayu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArts.png",
+    "image_key": "Analytics/DataArts.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据湖探索 DLI",
+    "description": "流处理，批处理和交互式的融合处理",
+    "href": "https://www.huaweicloud.com/product/dli.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLI.png",
+    "image_key": "Analytics/DLI.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数据管理服务 DAS",
+    "description": "数据库管理专家",
+    "href": "https://www.huaweicloud.com/product/das.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DAS.png",
+    "image_key": "Databases/DAS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "数智融合计算服务 DataArts Fabric",
+    "description": "提供一站式数据+AI开发平台",
+    "href": "https://www.huaweicloud.com/product/dataartsfabric.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArtsFabric.png",
+    "image_key": "Analytics/DataArtsFabric.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "文档数据库服务 DDS",
+    "description": "支持集群和副本集部署，弹性伸缩",
+    "href": "https://www.huaweicloud.com/product/dds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDS.png",
+    "image_key": "Databases/DDS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "日志分析服务 Log",
+    "description": "提供开箱即用的ELK日志解决方案",
+    "href": "https://www.huaweicloud.com/product/log.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/Log.png",
+    "image_key": "Analytics/Log.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "智能数据洞察 DataArts Insight",
+    "description": "新一代BI服务，支撑业务实时高效决策",
+    "href": "https://www.huaweicloud.com/product/dataartsinsight.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArts-Insight.png",
+    "image_key": "Analytics/DataArts-Insight.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "湖仓构建 LakeFormation",
+    "description": "高效搭建数智融合一体化解决方案",
+    "href": "https://www.huaweicloud.com/product/lakeformation.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/LakeFormation.png",
+    "image_key": "Analytics/LakeFormation.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "表格存储服务 CloudTable",
+    "description": "企业级托管型云数仓产品",
+    "href": "https://www.huaweicloud.com/product/cloudtable.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CloudTable.png",
+    "image_key": "Analytics/CloudTable.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "Uncategorized",
+    "title": "边缘安全 EdgeSec",
+    "description": "保护边缘应用安全，提升安全加速体验",
+    "href": "https://www.huaweicloud.com/product/edgesec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/EdgeSec.png",
+    "image_key": "SecurityCompliance/EdgeSec.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "LLM大模型",
+    "description": "多专家+大稀疏比的MOE新架构",
+    "href": "https://www.huaweicloud.com/product/pangu/nlp.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "MaaS模型即服务",
+    "description": "极致性能，易用好用的Tokens服务",
+    "href": "https://www.huaweicloud.com/product/modelarts/studio.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/MaaS.png",
+    "image_key": "AI/MaaS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "人脸识别服务 FRS",
+    "description": "快速实现人脸的精确比对和检索",
+    "href": "https://www.huaweicloud.com/product/face.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/FRS.png",
+    "image_key": "AI/FRS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "人证核身服务 IVS",
+    "description": "实现对身份真实性的精准核验",
+    "href": "https://www.huaweicloud.com/product/ivs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ivs.png",
+    "image_key": "AI/ivs.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "八爪鱼自动驾驶云服务 Octopus",
+    "description": "自动驾驶端到端开发工具链",
+    "href": "https://www.huaweicloud.com/product/octopus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Octopus.png",
+    "image_key": "AI/Octopus.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "内容审核 Moderation",
+    "description": "提供文本、图像、视频中的内容检测功能",
+    "href": "https://www.huaweicloud.com/product/moderation.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Moderation.png",
+    "image_key": "AI/Moderation.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "华为HiLens",
+    "description": "端云协同AI应用开发平台",
+    "href": "https://www.huaweicloud.com/product/hilens.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/hilens.png",
+    "image_key": "AI/hilens.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "图引擎服务 GES",
+    "description": "针对图结构数据，进行查询分析",
+    "href": "https://www.huaweicloud.com/product/ges.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ges.png",
+    "image_key": "AI/ges.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "多模态大模型",
+    "description": "图像理解 | 图像生成 | 视频生成",
+    "href": "https://www.huaweicloud.com/product/pangu/multimodal.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "天筹求解器 OptVerse",
+    "description": "更好的优化，更优的决策",
+    "href": "https://www.huaweicloud.com/product/optverse.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/OptVerse.png",
+    "image_key": "AI/OptVerse.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "对话机器人服务 CBS",
+    "description": "支持大模型的企业级对话机器人服务",
+    "href": "https://www.huaweicloud.com/product/cbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/cbs.png",
+    "image_key": "AI/cbs.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "文字识别 OCR",
+    "description": "将图片中文字信息识别成可编辑文本",
+    "href": "https://www.huaweicloud.com/product/ocr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/OCR.png",
+    "image_key": "AI/OCR.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "智能体平台 AgentArts",
+    "description": "高效敏捷安全的一站式企业级智能体平台",
+    "href": "https://www.huaweicloud.com/product/agentarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/Versatile.svg",
+    "image_key": "aPaaS/Versatile.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "气象大模型",
+    "description": "降水量预测 | 风电预测 | 光伏预测…",
+    "href": "https://www.huaweicloud.com/product/pangu/scientific-computing.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "视觉大模型",
+    "description": "支持多行业图像数据合成",
+    "href": "https://www.huaweicloud.com/product/pangu/cv.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "视频智能分析服务 VIAS",
+    "description": "多项能力一体化平台服务",
+    "href": "https://www.huaweicloud.com/product/vias.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/VIAS.png",
+    "image_key": "AI/VIAS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "语音交互 SIS",
+    "description": "精准快速语音识别，自然拟人语音合成",
+    "href": "https://www.huaweicloud.com/product/sis.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/sis.png",
+    "image_key": "AI/sis.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "预测大模型",
+    "description": "虚拟测量 | 预测性维护 | 工艺优化…",
+    "href": "https://www.huaweicloud.com/product/pangu/predict.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "人工智能",
+    "title": "魔坊（ModelArts）模型训推平台",
+    "description": "“数-训-推-强”，一站式AI开发平台",
+    "href": "https://www.huaweicloud.com/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "Flexus云会议",
+    "description": "高性价比的云会议，高清、稳定、安全",
+    "href": "https://www.huaweicloud.com/product/flexus-meeting.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FlexusMeeting.svg",
+    "image_key": "Compute/FlexusMeeting.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "Flexus云桌面",
+    "description": "按需弹性，更适合中小企业的云办公",
+    "href": "https://www.huaweicloud.com/product/flexus-workspace.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FlexusWorkspace.svg",
+    "image_key": "Compute/FlexusWorkspace.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "IoT行业生态工作台 IoTStage",
+    "description": "物联网解决方案一站式交付服务",
+    "href": "https://www.huaweicloud.com/product/iotstage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTStage.png",
+    "image_key": "InternetofThings/IoTStage.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "IoT边缘 IoTEdge",
+    "description": "就近接入、数据预处理和边缘应用管理",
+    "href": "https://www.huaweicloud.com/product/iotedge.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTEdge.png",
+    "image_key": "InternetofThings/IoTEdge.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "ROMA资产中心 ROMAExchange",
+    "description": "企业数字资产管理和运营的统一平台",
+    "href": "https://www.huaweicloud.com/product/romaexchange.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/ROMAExchange.png",
+    "image_key": "BusinessApplications/ROMAExchange.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云地图服务 KooMap",
+    "description": "使能数字孪生的云地图服务",
+    "href": "https://www.huaweicloud.com/product/koomap.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooMap.png",
+    "image_key": "aPaaS/KooMap.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云客服 CEC",
+    "description": "提供呼叫中心云服务，高效联络用户",
+    "href": "https://www.huaweicloud.com/product/cec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/CEC.png",
+    "image_key": "BusinessApplications/CEC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云手机服务 KooPhone",
+    "description": "优体验、高安全的政企云手机服务",
+    "href": "https://www.huaweicloud.com/product/koophone.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooPhone.png",
+    "image_key": "aPaaS/KooPhone.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云桌面 Workspace",
+    "description": "安全高效、即开即用的云上虚拟桌面服务",
+    "href": "https://www.huaweicloud.com/product/workspace.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Workspace.png",
+    "image_key": "BusinessApplications/Workspace.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云消息服务 KooMessage",
+    "description": "全场景、全终端客户触达",
+    "href": "https://www.huaweicloud.com/product/koomessage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooMessage.png",
+    "image_key": "aPaaS/KooMessage.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "云空间服务 KooDrive",
+    "description": "数字内容中枢，内容协作更高效",
+    "href": "https://www.huaweicloud.com/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "华为云WeLink",
+    "description": "安全、智能、数字化协同办公平台",
+    "href": "https://www.huaweicloud.com/product/welink.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/WeLink.png",
+    "image_key": "BusinessApplications/WeLink.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "华为云会议 Meeting",
+    "description": "提供全场景端云协同视频会议解决方案",
+    "href": "https://www.huaweicloud.com/product/meeting.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Meeting.png",
+    "image_key": "BusinessApplications/Meeting.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "域名注册服务 Domains",
+    "description": "提供域名注册、续费、转入以及管理服务",
+    "href": "https://www.huaweicloud.com/product/domain.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Domains.png",
+    "image_key": "BusinessApplications/Domains.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "工业数字模型驱动引擎 iDME",
+    "description": "使能工业软件SaaS化数据模型驱动引擎",
+    "href": "https://www.huaweicloud.com/product/idt.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Industrialsoftware/IDT.png",
+    "image_key": "Industrialsoftware/IDT.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "工业数据转换引擎云服务 iDEE",
+    "description": "赋能异构工业软件高效数据转换",
+    "href": "https://www.huaweicloud.com/product/idee.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Industrialsoftware/iDEE.png",
+    "image_key": "Industrialsoftware/iDEE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "应用与数据集成平台 ROMAConnect",
+    "description": "无缝联接应用、消息、数据、API、设备",
+    "href": "https://www.huaweicloud.com/product/roma.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/ROMAConnect.png",
+    "image_key": "BusinessApplications/ROMAConnect.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "应用平台 AppStage",
+    "description": "应用全生命周期管理",
+    "href": "https://www.huaweicloud.com/product/appstage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/AppStage.png",
+    "image_key": "aPaaS/AppStage.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "开天企业工作台 MSSE",
+    "description": "企业一站式数字化工作台",
+    "href": "https://www.huaweicloud.com/product/msse.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/MSSE.png",
+    "image_key": "aPaaS/MSSE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "开天集成工作台 MSSI",
+    "description": "统一的行业资产智能协作平台",
+    "href": "https://www.huaweicloud.com/product/mssi.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/MSSI.png",
+    "image_key": "aPaaS/MSSI.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "政企自服务管理服务 ESM",
+    "description": "提升HCSO客户自主运营管理能力",
+    "href": "https://www.huaweicloud.com/product/esm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/esm.png",
+    "image_key": "BusinessApplications/esm.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "消息&短信 MSGSMS",
+    "description": "携手全球运营商和渠道提供短信服务",
+    "href": "https://www.huaweicloud.com/product/msgsms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/MSGSMS.png",
+    "image_key": "DeveloperServices/MSGSMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "硬件开发工具链平台云服务 CraftArts IPDCenter",
+    "description": "使能打造硬件开发工具链",
+    "href": "https://www.huaweicloud.com/product/ipdcenter.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Industrialsoftware/IPDCenter.png",
+    "image_key": "Industrialsoftware/IPDCenter.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "组织成员帐号 OrgID",
+    "description": "为企业提供统一帐号、应用授权管理",
+    "href": "https://www.huaweicloud.com/product/orgid.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/OrgID.png",
+    "image_key": "aPaaS/OrgID.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "解决方案工作台 InnoStage Workbench",
+    "description": "支持解决方案设计、验证、交付等",
+    "href": "https://www.huaweicloud.com/product/innostageworkbench.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/HaydnCSF.png",
+    "image_key": "BusinessApplications/HaydnCSF.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "设备接入 IoTDA",
+    "description": "安全可靠接入海量设备",
+    "href": "https://www.huaweicloud.com/product/iothub.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTDA.png",
+    "image_key": "InternetofThings/IoTDA.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "语音通话 VoiceCall",
+    "description": "携手全球运营商提供语音服务",
+    "href": "https://www.huaweicloud.com/product/voice.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/VoiceCall.png",
+    "image_key": "BusinessApplications/VoiceCall.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "企业应用",
+    "title": "隐私保护通话 PrivateNumber",
+    "description": "不增加SIM卡，隐藏号码，保护个人隐私",
+    "href": "https://www.huaweicloud.com/product/privatenumber.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/PrivateNumber.png",
+    "image_key": "BusinessApplications/PrivateNumber.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "华为混合云",
+    "title": "华为混合云",
+    "description": "本地部署，匹配政企的全栈云服务",
+    "href": "https://www.huaweicloud.com/product/huaweicloudstack.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/HuaweiCloudStack/huaweicloudstack.png",
+    "image_key": "HuaweiCloudStack/huaweicloudstack.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "Flexus数字人",
+    "description": "制作简单，高性价比的分身数字人",
+    "href": "https://www.huaweicloud.com/product/flexus-metastudio.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FlexusMetastudio.svg",
+    "image_key": "Compute/FlexusMetastudio.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "媒体处理 MPC",
+    "description": "经济、高效、弹性的音视频转码和处理",
+    "href": "https://www.huaweicloud.com/product/mpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MPC.png",
+    "image_key": "MediaServices/MPC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "数字内容生产线 MetaStudio",
+    "description": "提供一站式数字内容生产解决方案",
+    "href": "https://www.huaweicloud.com/product/mdh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MetaStudio.png",
+    "image_key": "MediaServices/MetaStudio.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "行业视频管理服务 IVM",
+    "description": "面向机器视觉设备提供统一的设备管理",
+    "href": "https://www.huaweicloud.com/product/ivm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/IVM.png",
+    "image_key": "SecurityCompliance/IVM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "视频点播 VOD",
+    "description": "视频上传、处理、加速和播放",
+    "href": "https://www.huaweicloud.com/product/vod.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/VOD.png",
+    "image_key": "MediaServices/VOD.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "媒体服务",
+    "title": "视频直播 Live",
+    "description": "端到端视频直播解决方案",
+    "href": "https://www.huaweicloud.com/product/live.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/Live.png",
+    "image_key": "MediaServices/Live.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "Flexus对象存储",
+    "description": "成本最优，极致安全可靠的数据底座",
+    "href": "https://www.huaweicloud.com/product/flexus-obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/FlexusOBS.svg",
+    "image_key": "Storage/FlexusOBS.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "专属分布式存储服务 DSS",
+    "description": "提供独享的物理存储资源",
+    "href": "https://www.huaweicloud.com/product/dss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DSS.png",
+    "image_key": "Storage/DSS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "业务恢复服务 BRS",
+    "description": "为ECS提供跨可用区RPO=0的容灾保护",
+    "href": "https://www.huaweicloud.com/product/sdrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SDRS.png",
+    "image_key": "Storage/SDRS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "云备份 CBR",
+    "description": "为云服务器、云硬盘等提供备份服务",
+    "href": "https://www.huaweicloud.com/product/cbr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CBR.png",
+    "image_key": "Storage/CBR.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "云存储网关 CSG",
+    "description": "为企业应用提供标准的文件存储访问入口",
+    "href": "https://www.huaweicloud.com/product/csg.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CSG.png",
+    "image_key": "Storage/CSG.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "云服务器备份 CSBS",
+    "description": "为所有云硬盘创建一致性在线备份",
+    "href": "https://www.huaweicloud.com/product/csbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CSBS.png",
+    "image_key": "Storage/CSBS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "云硬盘 EVS",
+    "description": "为计算服务提供持久性块存储的服务",
+    "href": "https://www.huaweicloud.com/product/evs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/EVS.png",
+    "image_key": "Storage/EVS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "对象存储服务 OBS",
+    "description": "稳定、安全、高效、易用的云存储服务",
+    "href": "https://www.huaweicloud.com/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "弹性内存存储 EMS",
+    "description": "高带宽、低时延的内存存储服务",
+    "href": "https://www.huaweicloud.com/product/ems.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/EMS.svg",
+    "image_key": "Storage/EMS.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "弹性文件服务 SFS",
+    "description": "为计算实例提供完全托管的NAS文件存储",
+    "href": "https://www.huaweicloud.com/product/sfs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFS.png",
+    "image_key": "Storage/SFS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "数据工坊 DWR",
+    "description": "开放的近数据处理服务",
+    "href": "https://www.huaweicloud.com/product/dwr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DWR.png",
+    "image_key": "Storage/DWR.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "键值存储服务 KVS",
+    "description": "Serverless KV存储服务",
+    "href": "https://www.huaweicloud.com/product/kvs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/KVS.png",
+    "image_key": "Storage/KVS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "存储",
+    "title": "高性能弹性文件服务 SFS Turbo",
+    "description": "高带宽、低时延的全托管文件服务",
+    "href": "https://www.huaweicloud.com/product/sfsturbo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFSTurbo.png",
+    "image_key": "Storage/SFSTurbo.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "API网关 APIG",
+    "description": "构建、管理和部署任意规模的API服务",
+    "href": "https://www.huaweicloud.com/product/apig.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/APIG.png",
+    "image_key": "Middleware/APIG.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "Flexus云容器实例",
+    "description": "开箱即用的轻量级容器产品",
+    "href": "https://www.huaweicloud.com/product/flexus-cci.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FCCI.png",
+    "image_key": "Compute/FCCI.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "事件网格 EG",
+    "description": "兼容CloudEvents的事件驱动架构服务",
+    "href": "https://www.huaweicloud.com/product/eventgrid.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/EG.png",
+    "image_key": "Middleware/EG.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "云容器实例 CCI",
+    "description": "提供敏捷安全的Serverless容器服务",
+    "href": "https://www.huaweicloud.com/product/cci.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCI.png",
+    "image_key": "Containers/CCI.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "云容器引擎 CCE",
+    "description": "提供高可靠的企业级容器应用管理服务",
+    "href": "https://www.huaweicloud.com/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "分布式消息服务 DMS",
+    "description": "完全托管的高性能消息队列服务",
+    "href": "https://www.huaweicloud.com/product/dms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/DMS.png",
+    "image_key": "Middleware/DMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "分布式消息服务Kafka版",
+    "description": "高吞吐、高可用的消息中间件服务",
+    "href": "https://www.huaweicloud.com/product/dmskafka.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Kafka.png",
+    "image_key": "Middleware/Kafka.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "分布式消息服务RabbitMQ版",
+    "description": "支持AMQP协议，兼容RabbitMQ生态",
+    "href": "https://www.huaweicloud.com/product/rabbitmq.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/RabbitMQ.png",
+    "image_key": "Middleware/RabbitMQ.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "分布式消息服务RocketMQ版",
+    "description": "低延迟、高可靠，兼容开源RocketMQ",
+    "href": "https://www.huaweicloud.com/product/dms-hrm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/ROCKETMQ.png",
+    "image_key": "Middleware/ROCKETMQ.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "分布式缓存服务Memcached版",
+    "description": "一个高性能、分布式的缓存系统",
+    "href": "https://www.huaweicloud.com/product/dcsmem.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Memcached.png",
+    "image_key": "Middleware/Memcached.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "华为云UCS",
+    "description": "提供无处不在的云原生服务",
+    "href": "https://www.huaweicloud.com/product/ucs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/UCS.png",
+    "image_key": "Containers/UCS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "多活高可用服务 MAS",
+    "description": "提供端到端业务故障切换及容灾演练能力",
+    "href": "https://www.huaweicloud.com/product/mas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/MAS.png",
+    "image_key": "Middleware/MAS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "容器镜像服务 SWR",
+    "description": "一种支持容器镜像全生命周期管理的服务",
+    "href": "https://www.huaweicloud.com/product/swr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/SWR.png",
+    "image_key": "Containers/SWR.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "微服务引擎 CSE",
+    "description": "微服务快速注册发现、配置管理及治理",
+    "href": "https://www.huaweicloud.com/product/cse.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/CSE.png",
+    "image_key": "Middleware/CSE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "容器与中间件",
+    "title": "智能边缘平台 IEF",
+    "description": "边云协同操作系统，提供边缘应用托管",
+    "href": "https://www.huaweicloud.com/product/ief.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/IEF.png",
+    "image_key": "Containers/IEF.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "CodeArts IDE",
+    "description": "智能化集成开发环境",
+    "href": "https://www.huaweicloud.com/product/codeartside.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsIDE.png",
+    "image_key": "DeveloperServices/CodeArtsIDE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "CodeArts IDE Online",
+    "description": "面向云原生的轻量级WebIDE",
+    "href": "https://www.huaweicloud.com/product/cloudide.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsIDEOnline.png",
+    "image_key": "DeveloperServices/CodeArtsIDEOnline.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "云应用引擎 CAE",
+    "description": "面向应用的Serverless极简托管引擎",
+    "href": "https://www.huaweicloud.com/product/cae.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CAE.png",
+    "image_key": "DeveloperServices/CAE.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "代码托管 CodeArts Repo",
+    "description": "提供基于Git的在线代码托管服务",
+    "href": "https://www.huaweicloud.com/product/codehub.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsRepo.png",
+    "image_key": "DeveloperServices/CodeArtsRepo.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "代码检查 CodeArts Check",
+    "description": "基于云端实现代码质量管理的服务",
+    "href": "https://www.huaweicloud.com/product/codecheck.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsCheck.png",
+    "image_key": "DeveloperServices/CodeArtsCheck.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "制品仓库 CodeArts Artifact",
+    "description": "提供多类型、安全可靠的软件制品仓库",
+    "href": "https://www.huaweicloud.com/product/codeartsartifact.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsArtifact.png",
+    "image_key": "DeveloperServices/CodeArtsArtifact.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "华为云Astro企业应用",
+    "description": "快速构建企业核心业务应用",
+    "href": "https://www.huaweicloud.com/product/astropro.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/AstroPro.png",
+    "image_key": "DeveloperServices/AstroPro.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "华为云Astro工作流",
+    "description": "一站式自动化工作流应用构建工具",
+    "href": "https://www.huaweicloud.com/product/astroflow.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/Flow.png",
+    "image_key": "DeveloperServices/Flow.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "华为云Astro轻应用",
+    "description": "快速搭建低代码轻应用",
+    "href": "https://www.huaweicloud.com/product/appcube.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/AstroZero.png",
+    "image_key": "DeveloperServices/AstroZero.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "华为开源镜像站 Mirrors",
+    "description": "开源组件、操作系统及DevOps工具",
+    "href": "https://www.huaweicloud.com/product/mirrors.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/Mirrors.png",
+    "image_key": "DeveloperServices/Mirrors.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "应用管理与运维平台 ServiceStage",
+    "description": "面向企业的一站式PaaS平台服务",
+    "href": "https://www.huaweicloud.com/product/servicestage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/ServiceStage.png",
+    "image_key": "DeveloperServices/ServiceStage.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "开源治理服务 CodeArts Governance",
+    "description": "识别开源软件风险，高效安全的使用开源",
+    "href": "https://www.huaweicloud.com/product/devsecurity.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/DevSecurity.png",
+    "image_key": "DeveloperServices/DevSecurity.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "性能测试 CodeArts PerfTest",
+    "description": "为应用的接口和全链路提供性能测试服务",
+    "href": "https://www.huaweicloud.com/product/cpts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPerfTest.png",
+    "image_key": "DeveloperServices/CodeArtsPerfTest.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "流水线 CodeArts Pipeline",
+    "description": "可视化、可定制的持续交付发布软件",
+    "href": "https://www.huaweicloud.com/product/cloudpipeline.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPipeline.png",
+    "image_key": "DeveloperServices/CodeArtsPipeline.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "测试计划 CodeArts TestPlan",
+    "description": "面向开发者提供的一站式测试管理平台",
+    "href": "https://www.huaweicloud.com/product/cloudtest.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsTestPlan.png",
+    "image_key": "DeveloperServices/CodeArtsTestPlan.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "漏洞管理服务 CodeArts Inspector",
+    "description": "满足合规要求，让安全弱点无所遁形",
+    "href": "https://www.huaweicloud.com/product/vss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/VSS.png",
+    "image_key": "SecurityCompliance/VSS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "移动应用测试 MobileAPPTest",
+    "description": "提供移动兼容性测试服务",
+    "href": "https://www.huaweicloud.com/product/mobileapptest.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/MobileAPPTest.png",
+    "image_key": "DeveloperServices/MobileAPPTest.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "编译构建 CodeArts Build",
+    "description": "提供开箱即用、快速的构建能力",
+    "href": "https://www.huaweicloud.com/product/cloudbuild.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsBuild.png",
+    "image_key": "DeveloperServices/CodeArtsBuild.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "软件开发生产线 CodeArts",
+    "description": "内置华为实践的一站式软件开发平台",
+    "href": "https://www.huaweicloud.com/devcloud/",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArts.png",
+    "image_key": "DeveloperServices/CodeArts.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "部署 CodeArts Deploy",
+    "description": "提供可视化、一键式部署服务",
+    "href": "https://www.huaweicloud.com/product/clouddeploy.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsDeploy.png",
+    "image_key": "DeveloperServices/CodeArtsDeploy.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "开发工具",
+    "title": "需求管理 CodeArts Req",
+    "description": "为研发团队提供高效需求管理服务",
+    "href": "https://www.huaweicloud.com/product/projectman.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsReq.png",
+    "image_key": "DeveloperServices/CodeArtsReq.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "Flexus应用服务器L实例",
+    "description": "即开即用的轻量型云服务器",
+    "href": "https://www.huaweicloud.com/product/flexus-l.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSL.png",
+    "image_key": "Compute/FECSL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "MaaS模型即服务",
+    "description": "极致性能，易用好用的Tokens服务",
+    "href": "https://www.huaweicloud.com/product/modelarts/studio.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/MaaS.png",
+    "image_key": "AI/MaaS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "云数据库 RDS for MySQL",
+    "description": "稳定可靠，智能运维，完全兼容MySQL",
+    "href": "https://www.huaweicloud.com/product/mysql.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMySQL.png",
+    "image_key": "Databases/RDSforMySQL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "对象存储服务 OBS",
+    "description": "稳定、安全、高效、易用的云存储服务",
+    "href": "https://www.huaweicloud.com/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "弹性云服务器 ECS",
+    "description": "可随时自动获取、弹性伸缩的云服务器",
+    "href": "https://www.huaweicloud.com/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "智能体平台 AgentArts",
+    "description": "一站式企业级智能体开发平台",
+    "href": "https://www.huaweicloud.com/product/agentarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/Versatile.svg",
+    "image_key": "aPaaS/Versatile.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "虚拟私有云 VPC",
+    "description": "隔离的、私密的虚拟网络环境",
+    "href": "https://www.huaweicloud.com/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "精选推荐",
+    "title": "魔坊（ModelArts）模型训推平台",
+    "description": "面向AI开发者的一站式开发平台",
+    "href": "https://www.huaweicloud.com/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "NAT网关 NAT",
+    "description": "提供网络地址转换服务",
+    "href": "https://www.huaweicloud.com/product/nat.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/NAT.png",
+    "image_key": "Networking/NAT.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "VPC终端节点 VPCEP",
+    "description": "提供VPC之间的私密连接通道",
+    "href": "https://www.huaweicloud.com/product/vpcep.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPCEP.png",
+    "image_key": "Networking/VPCEP.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "云专线 DC",
+    "description": "搭建本地数据中心与VPC间的专属连接通道",
+    "href": "https://www.huaweicloud.com/product/dc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/DC.png",
+    "image_key": "Networking/DC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "云解析服务 DNS",
+    "description": "提供高可用，高扩展的DNS和管理服务",
+    "href": "https://www.huaweicloud.com/product/dns.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/DNS.png",
+    "image_key": "BusinessApplications/DNS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "云连接 CC",
+    "description": "支持多Region VPC互通的混合云组网",
+    "href": "https://www.huaweicloud.com/product/cc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/CC.png",
+    "image_key": "Networking/CC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "企业交换机 ESW",
+    "description": "云上与云下的大二层连接通道",
+    "href": "https://www.huaweicloud.com/product/esw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ESW.png",
+    "image_key": "Networking/ESW.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "企业路由器 ER",
+    "description": "提供高可靠的集中路由管理能力",
+    "href": "https://www.huaweicloud.com/product/er.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ER.png",
+    "image_key": "Networking/ER.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "全球加速 GA",
+    "description": "提供SLA稳定的加速传输",
+    "href": "https://www.huaweicloud.com/product/ga.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/GA.png",
+    "image_key": "Networking/GA.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "弹性公网IP EIP",
+    "description": "提供独立的公网IP资源服务",
+    "href": "https://www.huaweicloud.com/product/eip.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/EIP.png",
+    "image_key": "Networking/EIP.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "弹性负载均衡 ELB",
+    "description": "将流量自动分发到多台云服务器",
+    "href": "https://www.huaweicloud.com/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "虚拟专用网络 VPN",
+    "description": "数据中心与华为云的IPsec加密连接通道",
+    "href": "https://www.huaweicloud.com/product/vpn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPN.png",
+    "image_key": "Networking/VPN.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "网络",
+    "title": "虚拟私有云 VPC",
+    "description": "隔离的、私密的虚拟网络环境",
+    "href": "https://www.huaweicloud.com/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "FPGA加速云服务器 FACS",
+    "description": "提供FPGA计算资源的弹性云服务器",
+    "href": "https://www.huaweicloud.com/product/facs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FACS.png",
+    "image_key": "Compute/FACS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "Flexus云服务",
+    "description": "新一代性能倍增、体验跃级的云服务系列",
+    "href": "https://www.huaweicloud.com/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "Flexus云服务器X实例",
+    "description": "柔性算力，六倍性能，旗舰体验",
+    "href": "https://www.huaweicloud.com/product/flexus-x.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSX.png",
+    "image_key": "Compute/FECSX.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "Flexus应用服务器L实例",
+    "description": "即开即用的轻量型云服务器",
+    "href": "https://www.huaweicloud.com/product/flexus-l.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSL.png",
+    "image_key": "Compute/FECSL.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "GPU加速云服务器 GACS",
+    "description": "提供GPU计算资源的弹性云服务器",
+    "href": "https://www.huaweicloud.com/product/gpu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/GACS.png",
+    "image_key": "Compute/GACS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "Huawei Cloud EulerOS",
+    "description": "充分发挥华为云优势的操作系统",
+    "href": "https://www.huaweicloud.com/product/hce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/HuaweiCloudEulerOS.png",
+    "image_key": "Compute/HuaweiCloudEulerOS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "专属主机 DeH",
+    "description": "专属物理主机创建的云服务器",
+    "href": "https://www.huaweicloud.com/product/deh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/DeH.png",
+    "image_key": "Compute/DeH.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "云化数据中心 CloudDC",
+    "description": "助力自持资产客户快速云化转型",
+    "href": "https://www.huaweicloud.com/product/clouddc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CloudDC.svg",
+    "image_key": "Compute/CloudDC.svg"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "云手机服务器 CPH",
+    "description": "具有虚拟手机功能的云服务器",
+    "href": "https://www.huaweicloud.com/product/cloudphone.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CPH.png",
+    "image_key": "Compute/CPH.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "函数工作流 FunctionGraph",
+    "description": "自动运行代码，无需配置或管理服务器",
+    "href": "https://www.huaweicloud.com/product/functiongraph.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FunctionGraph.png",
+    "image_key": "Compute/FunctionGraph.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "弹性云服务器 ECS",
+    "description": "可随时自动获取、弹性伸缩的云服务器",
+    "href": "https://www.huaweicloud.com/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "弹性伸缩 AS",
+    "description": "根据预设策略自动调整计算资源的服务",
+    "href": "https://www.huaweicloud.com/product/as.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/AS.png",
+    "image_key": "Compute/AS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "裸金属服务器 BMS",
+    "description": "高性能、高安全的云上物理服务器",
+    "href": "https://www.huaweicloud.com/product/bms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/BMS.png",
+    "image_key": "Compute/BMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "计算",
+    "title": "镜像服务 IMS",
+    "description": "提供完善的镜像管理能力",
+    "href": "https://www.huaweicloud.com/product/ims.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/IMS.png",
+    "image_key": "Compute/IMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "主机迁移服务 SMS",
+    "description": "把数据中心或其他云上主机迁移到华为云",
+    "href": "https://www.huaweicloud.com/product/sms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/SMS.png",
+    "image_key": "Migration/SMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "云审计服务 CTS",
+    "description": "为您提供云账户下资源的操作记录",
+    "href": "https://www.huaweicloud.com/product/cts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CTS.png",
+    "image_key": "ManagementGovernance/CTS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "云日志服务 LTS",
+    "description": "提供日志收集、实时查询、存储等功能",
+    "href": "https://www.huaweicloud.com/product/lts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/LTS.png",
+    "image_key": "ManagementGovernance/LTS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "云监控服务 CES",
+    "description": "提供云上及本地资源的立体化监控平台",
+    "href": "https://www.huaweicloud.com/product/ces.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CES.png",
+    "image_key": "ManagementGovernance/CES.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "云运维中心 COC",
+    "description": "提供安全、高效的一站式智能运维平台",
+    "href": "https://www.huaweicloud.com/product/coc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/COC.png",
+    "image_key": "ManagementGovernance/COC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "优化顾问 OA",
+    "description": "一键识别云资源潜在风险并给出优化建议",
+    "href": "https://www.huaweicloud.com/product/oa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/OA.png",
+    "image_key": "ManagementGovernance/OA.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "对象存储迁移服务 OMS",
+    "description": "公有云对象存储数据迁移服务",
+    "href": "https://www.huaweicloud.com/product/oms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/OMS.png",
+    "image_key": "Migration/OMS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "应用性能管理 APM",
+    "description": "实时监控并管理企业应用性能和故障",
+    "href": "https://www.huaweicloud.com/product/apm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/APM.png",
+    "image_key": "ManagementGovernance/APM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "应用身份管理服务 OneAccess",
+    "description": "具备集中式的身份管理、认证和授权能力",
+    "href": "https://www.huaweicloud.com/product/oneaccess.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/OneAccess.png",
+    "image_key": "ManagementGovernance/OneAccess.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "应用运维管理 AOM",
+    "description": "提供立体运维平台，实时监控应用",
+    "href": "https://www.huaweicloud.com/product/aom.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/AOM.png",
+    "image_key": "ManagementGovernance/AOM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "消息通知服务 SMN",
+    "description": "依据用户的需求主动推送通知消息",
+    "href": "https://www.huaweicloud.com/product/smn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/SMN.png",
+    "image_key": "ManagementGovernance/SMN.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "组织 Organizations",
+    "description": "提供多账号关系的管理能力",
+    "href": "https://www.huaweicloud.com/product/organizations.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/Organizations.png",
+    "image_key": "ManagementGovernance/Organizations.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "统一身份认证服务 IAM",
+    "description": "提供身份认证和权限管理功能",
+    "href": "https://www.huaweicloud.com/product/iam.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/IAM.png",
+    "image_key": "ManagementGovernance/IAM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "资源治理中心 RGC",
+    "description": "搭建并治理安全可扩展的多账号环境",
+    "href": "https://www.huaweicloud.com/product/rgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RGC.png",
+    "image_key": "ManagementGovernance/RGC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "资源编排服务 RFS",
+    "description": "批量自动化创建云服务资源",
+    "href": "https://www.huaweicloud.com/product/aos.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RFS.png",
+    "image_key": "ManagementGovernance/RFS.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "资源访问管理 RAM",
+    "description": "提供安全的跨账号共享资源的能力",
+    "href": "https://www.huaweicloud.com/product/ram.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RAM.png",
+    "image_key": "ManagementGovernance/RAM.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "迁移中心 MgC",
+    "description": "一站式迁移和现代化平台",
+    "href": "https://www.huaweicloud.com/product/mgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/MGC.png",
+    "image_key": "Migration/MGC.png"
+  },
+  {
+    "source": "china-zh-cn",
+    "category": "运维管理与迁移",
+    "title": "配置审计 Config",
+    "description": "提供全局资源配置管理，配置检测能力",
+    "href": "https://www.huaweicloud.com/product/rms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RMS.png",
+    "image_key": "ManagementGovernance/RMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Content Moderation",
+    "description": "Detect inappropriate content in images, text, and videos",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/moderation.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Moderation.png",
+    "image_key": "AI/Moderation.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "EIHealth",
+    "description": "Use AI to facilitate genomics, drug discovery, and medical imaging",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/eihealth.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/eihealth.png",
+    "image_key": "AI/eihealth.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Graph Engine Service (GES)",
+    "description": "Query and analyze graph-structure data based on relationships",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ges.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ges.png",
+    "image_key": "AI/ges.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Huawei HiLens (HiLens)",
+    "description": "Use this platform for multimodal AI development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/hilens.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/hilens.png",
+    "image_key": "AI/hilens.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Image Recognition",
+    "description": "Identify visual content in images",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/image.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Image.png",
+    "image_key": "AI/Image.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Intelligent Video Analysis Service",
+    "description": "VIAS is a comprehensive solution for AI-driven video analytics, event detection",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vias.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/VIAS.png",
+    "image_key": "AI/VIAS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "MaaS",
+    "description": "Ultimate Performance, Intuitive Tokens Service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/maas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/MaaS.png",
+    "image_key": "AI/MaaS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "ModelArts",
+    "description": "Build, train, and deploy machine learning models quickly and easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Optical Character Recognition (OCR)",
+    "description": "Detect and extract text from any image and convert the text into JSON format",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ocr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/OCR.png",
+    "image_key": "AI/OCR.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "PanguLargeModels",
+    "description": "Reshape your industry with large AI models",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/pangu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Question Answering Bot (QABot)",
+    "description": "Build and manage intelligent Q&A bots",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbsqa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/cbsqa.png",
+    "image_key": "AI/cbsqa.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "AI",
+    "title": "Short Sentence Recognition",
+    "description": "Convert short audio files (up to a minute long) into text",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/asr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/asr.png",
+    "image_key": "AI/asr.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Cloud Search Service (CSS)",
+    "description": "Query accurately by multiple conditions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/css.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Cloud Stream Service (CS)",
+    "description": "Process streaming data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CS.png",
+    "image_key": "Analytics/CS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Data Ingestion Service (DIS)",
+    "description": "Ingest, process, and dump data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dis.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DIS.png",
+    "image_key": "Analytics/DIS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Data Lake Insight (DLI)",
+    "description": "Analyze and process streaming and batch data",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dli.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLI.png",
+    "image_key": "Analytics/DLI.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Data Lake Visualization (DLV)",
+    "description": "Create dashboards to track and display complex data in real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dlv.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLV.png",
+    "image_key": "Analytics/DLV.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "Data Warehouse Service (DWS)",
+    "description": "Give your warehouse market-leading performance, superlative stability, and on-demand scaling",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dws.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DWS.png",
+    "image_key": "Analytics/DWS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "DataArts Fabric",
+    "description": "A comprehensive, one-stop platform for data and AI development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dataartsfabric.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArtsFabric.png",
+    "image_key": "Analytics/DataArtsFabric.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "DataArts Studio",
+    "description": "Manage your data development and governance in one place",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dayu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArts.png",
+    "image_key": "Analytics/DataArts.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Analytics",
+    "title": "MapReduce Service (MRS)",
+    "description": "Run open source analytics workloads on high-availability big data clusters",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/MapReduce.png",
+    "image_key": "Analytics/MapReduce.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Blockchain",
+    "title": "Blockchain Service (BCS)",
+    "description": "Build powerful, secure blockchains",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/bcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Blockchain/BCS.png",
+    "image_key": "Blockchain/BCS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "Customer Engagement Center (CEC)",
+    "description": "A multi-channel contact center",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/CEC.png",
+    "image_key": "BusinessApplications/CEC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "Edge Data Center Management",
+    "description": "Remote cloud management for data center facilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/edcm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/EDCM.png",
+    "image_key": "BusinessApplications/EDCM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "HUAWEI CLOUD WeLink",
+    "description": "Digital collaborative office platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/welink.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/WeLink.png",
+    "image_key": "BusinessApplications/WeLink.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "Huawei Cloud Meeting",
+    "description": "Enjoy ultra-HD videoconferencing that is both reliable and secure",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/meeting.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Meeting.png",
+    "image_key": "BusinessApplications/Meeting.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "Message & SMS",
+    "description": "SMS solutions from multiple carriers and channels",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/msgsms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/MSGSMS.png",
+    "image_key": "DeveloperServices/MSGSMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "ROMA Connect",
+    "description": "Seamlessly integrate applications, messages, data, APIs, and devices",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/roma.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/ROMAConnect.png",
+    "image_key": "BusinessApplications/ROMAConnect.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Business Applications",
+    "title": "Workspace",
+    "description": "Secure, efficient, and out-of-the-box virtual desktops on the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/workspace.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Workspace.png",
+    "image_key": "BusinessApplications/Workspace.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Auto Scaling",
+    "description": "Adapt compute resources to changing demand",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/as.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/AS.png",
+    "image_key": "Compute/AS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Bare Metal Server (BMS)",
+    "description": "Run services on dedicated, powerful physical servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/bms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/BMS.png",
+    "image_key": "Compute/BMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Cloud Data Center (CloudDC)",
+    "description": "Enable quick cloud adoption for your assets",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/clouddc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CloudDC.svg",
+    "image_key": "Compute/CloudDC.svg"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Cloud Phone Host (CPH)",
+    "description": "Cloud servers with virtual phone functions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cph.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CPH.png",
+    "image_key": "Compute/CPH.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Dedicated Computing Cluster (DCC)",
+    "description": "Physically isolate compute resource pools for your workloads",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/dcc.png",
+    "image_key": "Compute/dcc.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Dedicated Host (DeH)",
+    "description": "Ensure performance by keeping compute resources isolated",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/deh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/DeH.png",
+    "image_key": "Compute/DeH.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Elastic Cloud Server (ECS)",
+    "description": "Get your own secure, scalable virtual servers in the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "FunctionGraph",
+    "description": "Run your code without provisioning or managing servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/functiongraph.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FunctionGraph.png",
+    "image_key": "Compute/FunctionGraph.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "GPU Accelerated Cloud Server (GACS)",
+    "description": "Get servers with excellent floating-point performance",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gpu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/GACS.png",
+    "image_key": "Compute/GACS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Huawei Cloud Flexus",
+    "description": "Next-generation products with transcendent performance and experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Huawei Cloud Flexus L Instance",
+    "description": "Lightweight servers ready out-of-the-box",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-l.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSL.png",
+    "image_key": "Compute/FECSL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Huawei Cloud Flexus X Instance",
+    "description": "Flexible compute, 6x the performance, and stellar experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-x.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSX.png",
+    "image_key": "Compute/FECSX.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Compute",
+    "title": "Image Management Service (IMS)",
+    "description": "Create and deploy servers faster with images",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ims.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/IMS.png",
+    "image_key": "Compute/IMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Containers",
+    "title": "Cloud Container Engine (CCE)",
+    "description": "Experience enterprise-class, managed Kubernetes service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Containers",
+    "title": "Cloud Container Instance (CCI)",
+    "description": "Build applications efficiently with serverless containers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cci.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCI.png",
+    "image_key": "Containers/CCI.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Containers",
+    "title": "SoftWare Repository for Container (SWR)",
+    "description": "Manage your container images easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/swr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/SWR.png",
+    "image_key": "Containers/SWR.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Containers",
+    "title": "Ubiquitous Cloud Native Service (UCS)",
+    "description": "Extend cloud native to where your business goes",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ucs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/UCS.png",
+    "image_key": "Containers/UCS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Content Delivery & Edge Computing",
+    "title": "CloudPond",
+    "description": "Deploy integrated racks and cloud services on customer's facilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudpond.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IES.png",
+    "image_key": "ContentDeliveryEdgeComputing/IES.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Content Delivery & Edge Computing",
+    "title": "Content Delivery Network (CDN)",
+    "description": "Get content to users on this fast, scalable, and secure network",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cdn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/CDN.png",
+    "image_key": "ContentDeliveryEdgeComputing/CDN.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Content Delivery & Edge Computing",
+    "title": "Intelligent Edge Cloud (IEC)",
+    "description": "Deploy cloud services near you for low latency",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IEC.png",
+    "image_key": "ContentDeliveryEdgeComputing/IEC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Content Delivery & Edge Computing",
+    "title": "Whole Site Acceleration (WSA)",
+    "description": "Speed up customer access to both your static and dynamic content",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/wsa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/WSA.png",
+    "image_key": "ContentDeliveryEdgeComputing/WSA.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Data Admin Service (DAS)",
+    "description": "Manage your online databases with ease",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/das.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DAS.png",
+    "image_key": "Databases/DAS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Data Replication Service (DRS)",
+    "description": "Migrate your databases with minimal downtime",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/drs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DRS.png",
+    "image_key": "Databases/DRS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Database and Application Migration UGO",
+    "description": "Migrate heterogeneous database schemas",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ugo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/UGO.png",
+    "image_key": "Databases/UGO.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Distributed Cache Service (DCS)",
+    "description": "An in-memory caching service compatible with Redis®",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Redis.png",
+    "image_key": "Middleware/Redis.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Distributed Database Middleware (DDM)",
+    "description": "Scale out resources to handle massive volumes of concurrent requests",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ddm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDM.png",
+    "image_key": "Databases/DDM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Document Database Service (DDS)",
+    "description": "A scalable document database deployed in a cluster or replica set",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDS.png",
+    "image_key": "Databases/DDS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "GaussDB",
+    "description": "An enterprise-grade, distributed relational database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "GeminiDB",
+    "description": "A cloud-native multi-model database compatible with mainstream NoSQL database protocols",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/geminidb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBfornosql.png",
+    "image_key": "Databases/GaussDBfornosql.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "Huawei Cloud Flexus RDS",
+    "description": "Lightweight databases that are easy to set up and manage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus-rds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FRDS.png",
+    "image_key": "Compute/FRDS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "RDS for MariaDB",
+    "description": "Power up your fully managed MariaDB",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mariadb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMariaDB.png",
+    "image_key": "Databases/RDSforMariaDB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "RDS for MySQL",
+    "description": "Power your LAMP stack with this popular, open-source database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mysql.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMySQL.png",
+    "image_key": "Databases/RDSforMySQL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "RDS for PostgreSQL",
+    "description": "An open-source database that ensures data reliability and integrity",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/pg.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforPostgreSQL.png",
+    "image_key": "Databases/RDSforPostgreSQL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Databases",
+    "title": "TaurusDB",
+    "description": "A MySQL-compatible enterprise-grade database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/taurusdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBforMySQL.png",
+    "image_key": "Databases/GaussDBforMySQL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "Cloud Application Engine (CAE)",
+    "description": "A service provides fully managed environment for deploying applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cae.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CAE.png",
+    "image_key": "DeveloperServices/CAE.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts",
+    "description": "Develop software with built-in Huawei expertise",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/devcloud.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArts.png",
+    "image_key": "DeveloperServices/CodeArts.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Artifact",
+    "description": "Secure, reliable artifacts for software development",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudrelease.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsArtifact.png",
+    "image_key": "DeveloperServices/CodeArtsArtifact.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Build",
+    "description": "Build code with out-of-the-box capabilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudbuild.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsBuild.png",
+    "image_key": "DeveloperServices/CodeArtsBuild.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Check",
+    "description": "Manage code quality with diverse standards, guidelines, and rules",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codecheck.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsCheck.png",
+    "image_key": "DeveloperServices/CodeArtsCheck.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Deploy",
+    "description": "Visualize and simplify code deployments",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/clouddeploy.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsDeploy.png",
+    "image_key": "DeveloperServices/CodeArtsDeploy.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Governance",
+    "description": "Identify open-source software risks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codeartsgovernance.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/DevSecurity.png",
+    "image_key": "DeveloperServices/DevSecurity.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts PerfTest",
+    "description": "Test the performance of your applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cpts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPerfTest.png",
+    "image_key": "DeveloperServices/CodeArtsPerfTest.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Pipeline",
+    "description": "Visualize and customize continuous delivery",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudpipeline.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPipeline.png",
+    "image_key": "DeveloperServices/CodeArtsPipeline.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Repo",
+    "description": "Host your code in private Git repositories",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/codehub.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsRepo.png",
+    "image_key": "DeveloperServices/CodeArtsRepo.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts Req",
+    "description": "Manage R&D requirements efficiently",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/projectman.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsReq.png",
+    "image_key": "DeveloperServices/CodeArtsReq.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "CodeArts TestPlan",
+    "description": "A one-stop test management platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cloudtest.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsTestPlan.png",
+    "image_key": "DeveloperServices/CodeArtsTestPlan.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "Huawei Cloud Astro Zero",
+    "description": "Develop in low code",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/appcube.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/AstroZero.png",
+    "image_key": "DeveloperServices/AstroZero.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Developer Services",
+    "title": "ServiceStage",
+    "description": "A one-stop PaaS service for enterprises",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/servicestage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/ServiceStage.png",
+    "image_key": "DeveloperServices/ServiceStage.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Cloud Container Engine (CCE)",
+    "description": "Experience enterprise-class, managed Kubernetes service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Cloud Search Service (CSS)",
+    "description": "Query accurately by multiple conditions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/css.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Elastic Cloud Server (ECS)",
+    "description": "Get your own secure, scalable virtual servers in the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Elastic Load Balance (ELB)",
+    "description": "Distribute incoming traffic across multiple backend servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "GaussDB",
+    "description": "An enterprise-grade, distributed relational database",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Huawei Cloud Flexus",
+    "description": "Next-generation products with transcendent performance and experience",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "KooDrive",
+    "description": "A digital content center for streamlined collaboration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Object Storage Service (OBS)",
+    "description": "Take advantage of infinitely scalable, durable, and secure object storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Featured",
+    "title": "Virtual Private Cloud (VPC)",
+    "description": "Guard your system with isolated, private networks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Huawei Cloud Stack",
+    "title": "Huawei Cloud Stack",
+    "description": "An on-premises, full-stack cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/huaweicloudstack.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/HuaweiCloudStack/huaweicloudstack.png",
+    "image_key": "HuaweiCloudStack/huaweicloudstack.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Internet of Things",
+    "title": "Global SIM Link (GSL)",
+    "description": "Manage IoT SIM cards in one place",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/gsl.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/GSL.png",
+    "image_key": "InternetofThings/GSL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Internet of Things",
+    "title": "IoT Device Access (IoTDA)",
+    "description": "Access device fleets securely and reliably",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iotda.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTDA.png",
+    "image_key": "InternetofThings/IoTDA.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Internet of Things",
+    "title": "IoT Device Management (IoTDM)",
+    "description": "Access hundreds of millions of devices stably",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iot.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTDM.png",
+    "image_key": "InternetofThings/IoTDM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Application Operations Management (AOM)",
+    "description": "A one-stop O&M platform for cloud resources and applications",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aom.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/AOM.png",
+    "image_key": "ManagementGovernance/AOM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Application Performance Management (APM)",
+    "description": "Monitor application performance in near real time",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/apm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/APM.png",
+    "image_key": "ManagementGovernance/APM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Cloud Eye",
+    "description": "Monitor your cloud resources, events, and websites",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ces.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CES.png",
+    "image_key": "ManagementGovernance/CES.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Cloud Operations Center (COC)",
+    "description": "Enjoy secure, efficient, one-stop O&M services",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/coc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/COC.png",
+    "image_key": "ManagementGovernance/COC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Cloud Trace Service (CTS)",
+    "description": "Track operations made on your cloud resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CTS.png",
+    "image_key": "ManagementGovernance/CTS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Config",
+    "description": "Track global resource configurations and changes",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RMS.png",
+    "image_key": "ManagementGovernance/RMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Identity and Access Management (IAM)",
+    "description": "Securely manage access to your services and resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/iam.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/IAM.png",
+    "image_key": "ManagementGovernance/IAM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Log Tank Service (LTS)",
+    "description": "Collect, query, and store logs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/lts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/LTS.png",
+    "image_key": "ManagementGovernance/LTS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Optimization Advisor (OA)",
+    "description": "Identify potential risks of cloud resources and get personalized recommendations",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/oa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/OA.png",
+    "image_key": "ManagementGovernance/OA.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Organizations",
+    "description": "Govern multiple accounts within your organization",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/organizations.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/Organizations.png",
+    "image_key": "ManagementGovernance/Organizations.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Resource Access Manager (RAM)",
+    "description": "Securely share resources across accounts",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ram.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RAM.png",
+    "image_key": "ManagementGovernance/RAM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Resource Formation Service (RFS)",
+    "description": "Automatically build cloud service resources in batches",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aos.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RFS.png",
+    "image_key": "ManagementGovernance/RFS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Resource Governance Center (RGC)",
+    "description": "Set up and govern a secure, scalable multi-account cloud environment",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RGC.png",
+    "image_key": "ManagementGovernance/RGC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Management & Governance",
+    "title": "Simple Message Notification (SMN)",
+    "description": "Send messages to email addresses, phone numbers, and HTTP/HTTPS servers at scale",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/smn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/SMN.png",
+    "image_key": "ManagementGovernance/SMN.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Media Services",
+    "title": "Industry Video Management Service (IVM)",
+    "description": "Unified device management for machine vision equipment",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ivm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/IVM.png",
+    "image_key": "SecurityCompliance/IVM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Media Services",
+    "title": "Live",
+    "description": "Secure and reliable livestreaming with low latency",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/live.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/Live.png",
+    "image_key": "MediaServices/Live.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Media Services",
+    "title": "Media Processing Center (MPC)",
+    "description": "Cost-effective, scalable media transcoding",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MPC.png",
+    "image_key": "MediaServices/MPC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Media Services",
+    "title": "MetaStudio",
+    "description": "One-stop digital content production pipeline",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/metastudio.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MetaStudio.png",
+    "image_key": "MediaServices/MetaStudio.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Media Services",
+    "title": "Video on Demand (VOD)",
+    "description": "Enjoy a secure, smooth, and customizable VOD service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vod.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/VOD.png",
+    "image_key": "MediaServices/VOD.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "API Gateway (APIG)",
+    "description": "Build, manage, and deploy APIs at any scale",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/apig.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/APIG.png",
+    "image_key": "Middleware/APIG.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Cloud Service Engine (CSE)",
+    "description": "Cover microservice application registration, discovery, configuration management, and governance",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cse.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/CSE.png",
+    "image_key": "Middleware/CSE.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Distributed Cache Service (DCS) for Memcached",
+    "description": "A high-performance distributed caching system",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dcsmem.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Memcached.png",
+    "image_key": "Middleware/Memcached.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Distributed Message Service (DMS)",
+    "description": "A high-performance managed message queue service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/DMS.png",
+    "image_key": "Middleware/DMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Distributed Message Service (DMS) for Kafka",
+    "description": "A fully managed, highly reliable message middleware service",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dmskafka.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Kafka.png",
+    "image_key": "Middleware/Kafka.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Distributed Message Service (DMS) for RabbitMQ",
+    "description": "Open-source compatibility, AMQP supported",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rabbitmq.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/RabbitMQ.png",
+    "image_key": "Middleware/RabbitMQ.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Distributed Message Service (DMS) for RocketMQ",
+    "description": "Open-source compatibility, low latency, high reliability",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/rocketmq.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/ROCKETMQ.png",
+    "image_key": "Middleware/ROCKETMQ.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Middleware",
+    "title": "Multi-Site High Availability Service (MAS)",
+    "description": "E2E service failover and DR drills",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/MAS.png",
+    "image_key": "Middleware/MAS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Migration",
+    "title": "Cloud Data Migration (CDM)",
+    "description": "Migrate data between homogeneous and heterogeneous sources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cdm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/CDM.png",
+    "image_key": "Migration/CDM.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Migration",
+    "title": "Migration Center (MgC)",
+    "description": "Simplify and accelerate cloud migration and modernization",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/mgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/MGC.png",
+    "image_key": "Migration/MGC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Migration",
+    "title": "Object Storage Migration Service (OMS)",
+    "description": "Migrate data in object storage to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/oms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/OMS.png",
+    "image_key": "Migration/OMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Migration",
+    "title": "Server Migration Service (SMS)",
+    "description": "Migrate servers in IDC or other clouds to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/SMS.png",
+    "image_key": "Migration/SMS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Cloud Connect",
+    "description": "Connect VPCs across regions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/CC.png",
+    "image_key": "Networking/CC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Direct Connect",
+    "description": "Establish dedicated network connections to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/DC.png",
+    "image_key": "Networking/DC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Domain Name Service (DNS)",
+    "description": "Highly available, scalable authoritative resolution",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dns.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/DNS.png",
+    "image_key": "BusinessApplications/DNS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Elastic IP (EIP)",
+    "description": "Create highly available systems with static public IP addresses",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/eip.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/EIP.png",
+    "image_key": "Networking/EIP.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Elastic Load Balance (ELB)",
+    "description": "Distribute incoming traffic across multiple backend servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Enterprise Router",
+    "description": "Connect your VPCs and on-premises networks simply and easily",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/er.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ER.png",
+    "image_key": "Networking/ER.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Enterprise Switch",
+    "description": "Connect cloud and on-premises networks at Layer 2",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/esw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ESW.png",
+    "image_key": "Networking/ESW.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Global Accelerator",
+    "description": "Accelerate access over Huawei Cloud backbone network",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ga.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/GA.png",
+    "image_key": "Networking/GA.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "NAT Gateway (NAT)",
+    "description": "Enable network address translation for cloud and on-premises servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/nat.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/NAT.png",
+    "image_key": "Networking/NAT.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "VPC Endpoint (VPCEP)",
+    "description": "Set up private connections between VPCs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpcep.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPCEP.png",
+    "image_key": "Networking/VPCEP.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Virtual Private Cloud (VPC)",
+    "description": "Guard your system with isolated, private networks",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Networking",
+    "title": "Virtual Private Network (VPN)",
+    "description": "Connect your local data center to the cloud through secure and reliable IPsec connections",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vpn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPN.png",
+    "image_key": "Networking/VPN.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Anti-DDoS Service (AAD)",
+    "description": "Swiftly mitigate cyberattacks that could disrupt services",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/aad.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/AAD.png",
+    "image_key": "SecurityCompliance/AAD.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Cloud Bastion Host (CBH)",
+    "description": "Manage servers, control permissions, and audit O&M",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CBH.png",
+    "image_key": "SecurityCompliance/CBH.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Cloud Certificate & Manager (CCM)",
+    "description": "Manage SSL and private certificates",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/ccm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SSL.png",
+    "image_key": "SecurityCompliance/SSL.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Cloud Firewall (CFW)",
+    "description": "Control traffic and prevent intrusions",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cfw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CFW.png",
+    "image_key": "SecurityCompliance/CFW.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Data Encryption Workshop (DEW)",
+    "description": "Encrypt data and manage keys on the cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dew.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DEW.png",
+    "image_key": "SecurityCompliance/DEW.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Data Security Center (DSC)",
+    "description": "Cloud native data security governance platform",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dsc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DSC.png",
+    "image_key": "SecurityCompliance/DSC.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Database Security Service (DBSS)",
+    "description": "Audit databases and detect SQL injections",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dbss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DBSS.png",
+    "image_key": "SecurityCompliance/DBSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Edge Security (EdgeSec)",
+    "description": "Protect edge applications while improving acceleration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/edgesec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/EdgeSec.png",
+    "image_key": "SecurityCompliance/EdgeSec.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Host Security Service (HSS)",
+    "description": "Manage assets, prevent intrusions, and eliminate vulnerabilities",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/hss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/HSS.png",
+    "image_key": "SecurityCompliance/HSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "SecMaster",
+    "description": "Intelligent, next-gen cloud native security operations center",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/secmaster.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SecMaster.png",
+    "image_key": "SecurityCompliance/SecMaster.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Security & Compliance",
+    "title": "Web Application Firewall (WAF)",
+    "description": "Shield web apps and websites against emerging threats 24/7",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/waf.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/WAF.png",
+    "image_key": "SecurityCompliance/WAF.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Business Recovery Service (BRS)",
+    "description": "Enjoy cross-AZ, zero-RPO data protection for your ECSs",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sdrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SDRS.png",
+    "image_key": "Storage/SDRS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Cloud Backup and Recovery (CBR)",
+    "description": "Centrally manage backups of your cloud and on-premises resources",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/cbr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CBR.png",
+    "image_key": "Storage/CBR.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Cloud Server Backup Service (CSBS)",
+    "description": "Consistently back up disks on your cloud servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/csbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CSBS.png",
+    "image_key": "Storage/CSBS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Data Express Service (DES)",
+    "description": "Transmit massive volumes of data safely and quickly to Huawei Cloud",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/des.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DES.png",
+    "image_key": "Storage/DES.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Dedicated Distributed Storage Service (DSS)",
+    "description": "Get dedicated, physical block storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/dss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DSS.png",
+    "image_key": "Storage/DSS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Elastic Volume Service (EVS)",
+    "description": "Give your servers persistent block storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/evs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/EVS.png",
+    "image_key": "Storage/EVS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Object Storage Service (OBS)",
+    "description": "Take advantage of infinitely scalable, durable, and secure object storage",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Scalable File Service (SFS)",
+    "description": "Enjoy fully hosted NAS file systems",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sfs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFS.png",
+    "image_key": "Storage/SFS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Scalable File Service Turbo (SFS Turbo)",
+    "description": "Enjoy high-bandwidth, low-latency access to fully-hosted shared file systems",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/sfsturbo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFSTurbo.png",
+    "image_key": "Storage/SFSTurbo.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "Storage",
+    "title": "Volume Backup Service (VBS)",
+    "description": "Back up cloud disks on running servers",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/vbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/VBS.png",
+    "image_key": "Storage/VBS.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "aPaaS",
+    "title": "KooDrive",
+    "description": "A digital content center for streamlined collaboration",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "intl-en-us",
+    "category": "aPaaS",
+    "title": "KooMessage",
+    "description": "One-stop Rich Media Messaging",
+    "href": "https://www.huaweicloud.com/intl/en-us/product/koomessage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooMessage.png",
+    "image_key": "aPaaS/KooMessage.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "CDN与智能边缘",
+    "title": "CloudPond",
+    "description": "将华为云基础设施和云服务部署到用户机房",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cloudpond.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IES.png",
+    "image_key": "ContentDeliveryEdgeComputing/IES.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "CDN与智能边缘",
+    "title": "全站加速 WSA",
+    "description": "提升网络传输的性能、稳定性和访问体验",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/wsa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/WSA.png",
+    "image_key": "ContentDeliveryEdgeComputing/WSA.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "CDN与智能边缘",
+    "title": "内容分发网络 CDN",
+    "description": "就近获得所需内容，改善网络拥挤状况",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cdn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/CDN.png",
+    "image_key": "ContentDeliveryEdgeComputing/CDN.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "CDN与智能边缘",
+    "title": "智能边缘云 IEC",
+    "description": "部署距用户更近的位置，提供低时延体验",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/iec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ContentDeliveryEdgeComputing/IEC.png",
+    "image_key": "ContentDeliveryEdgeComputing/IEC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "IoT物联网",
+    "title": "全球SIM联接 GSL",
+    "description": "为物联网设备提供一站式SIM卡管理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/gsl.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/GSL.png",
+    "image_key": "InternetofThings/GSL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "IoT物联网",
+    "title": "设备接入 IoTDA",
+    "description": "安全可靠接入海量设备",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/iotda.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTDA.png",
+    "image_key": "InternetofThings/IoTDA.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "IoT物联网",
+    "title": "设备管理 IoTDM",
+    "description": "实现亿级设备安全、可靠、稳定接入云端",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/iot.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/InternetofThings/IoTDM.png",
+    "image_key": "InternetofThings/IoTDM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "AI开发平台ModelArts",
+    "description": "面向AI开发者的一站式开发平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "MaaS模型即服务",
+    "description": "极致性能，易用的Tokens服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/maas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/MaaS.png",
+    "image_key": "AI/MaaS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "一句话识别",
+    "description": "将一分钟内的音频转换为文本",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/asr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/asr.png",
+    "image_key": "AI/asr.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "内容审核 Moderation",
+    "description": "准确识别图像、文本、视频等内容",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/moderation.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Moderation.png",
+    "image_key": "AI/Moderation.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "华为HiLens",
+    "description": "端云协同AI应用开发平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/hilens.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/hilens.png",
+    "image_key": "AI/hilens.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "图像识别 Image",
+    "description": "准确识别图像中的视觉内容",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/image.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/Image.png",
+    "image_key": "AI/Image.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "图引擎服务 GES",
+    "description": "针对图结构数据，进行查询分析",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ges.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ges.png",
+    "image_key": "AI/ges.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "文字识别 OCR",
+    "description": "将图片中的文字识别成可编辑的文本",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ocr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/OCR.png",
+    "image_key": "AI/OCR.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "智能问答机器人 QABot",
+    "description": "构建和管理智能问答机器人系统",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cbsqa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/cbsqa.png",
+    "image_key": "AI/cbsqa.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "盘古大模型 PanguLargeModels",
+    "description": "AI for Industries 大模型重塑千行百业",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/pangu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/pangu.png",
+    "image_key": "AI/pangu.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "人工智能",
+    "title": "视频智能分析服务 VIAS",
+    "description": "视频AI分析、事件感知一体化平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vias.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/VIAS.png",
+    "image_key": "AI/VIAS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "云客服 CEC",
+    "description": "提供呼叫中心云服务，高效联络用户",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/CEC.png",
+    "image_key": "BusinessApplications/CEC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "云桌面 Workspace",
+    "description": "安全高效、即开即用的云上虚拟桌面服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/workspace.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Workspace.png",
+    "image_key": "BusinessApplications/Workspace.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "华为云WeLink",
+    "description": "安全、智能、数字化协同办公平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/welink.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/WeLink.png",
+    "image_key": "BusinessApplications/WeLink.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "华为云会议 Meeting",
+    "description": "提供全场景端云协同视频会议解决方案",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/meeting.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/Meeting.png",
+    "image_key": "BusinessApplications/Meeting.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "应用与数据集成平台 ROMAConnect",
+    "description": "无缝联接应用、消息、数据、API、设备",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/roma.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/ROMAConnect.png",
+    "image_key": "BusinessApplications/ROMAConnect.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "消息&短信 MSGSMS",
+    "description": "携手全球运营商和渠道提供短信服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/msgsms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/MSGSMS.png",
+    "image_key": "DeveloperServices/MSGSMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "企业应用",
+    "title": "边缘数据中心管理 EDCM",
+    "description": "数据中心基础设施远程云管理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/edcm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/EDCM.png",
+    "image_key": "BusinessApplications/EDCM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "区块链",
+    "title": "区块链服务 BCS",
+    "description": "高性能、高安全的区块链技术平台服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/bcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Blockchain/BCS.png",
+    "image_key": "Blockchain/BCS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "华为云Stack",
+    "title": "华为云Stack",
+    "description": "本地部署，匹配政企的全栈云服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/huaweicloudstack.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/HuaweiCloudStack/huaweicloudstack.png",
+    "image_key": "HuaweiCloudStack/huaweicloudstack.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "MapReduce服务 MRS",
+    "description": "企业级大数据集群云服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/MapReduce.png",
+    "image_key": "Analytics/MapReduce.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "云搜索服务 CSS",
+    "description": "提供多条件检索与分析能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/css.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "云数据仓库 GaussDB(DWS)",
+    "description": "极致性能、稳定、按需扩展的数据仓库",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dws.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DWS.png",
+    "image_key": "Analytics/DWS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "实时流计算服务 CS",
+    "description": "实时大数据分析平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CS.png",
+    "image_key": "Analytics/CS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "数据可视化 DLV",
+    "description": "提供可视化组件定制和应用数据大屏",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dlv.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLV.png",
+    "image_key": "Analytics/DLV.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "数据接入服务 DIS",
+    "description": "实时数据接入、处理、转储服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dis.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DIS.png",
+    "image_key": "Analytics/DIS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "数据治理中心 DataArts Studio",
+    "description": "一站式数据开发与治理平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dayu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArts.png",
+    "image_key": "Analytics/DataArts.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "数据湖探索 DLI",
+    "description": "流处理、批处理的融合处理分析服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dli.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DLI.png",
+    "image_key": "Analytics/DLI.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "大数据",
+    "title": "数智融合计算服务 DataArts Fabric",
+    "description": "提供一站式数据+AI开发平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dataartsfabric.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/DataArtsFabric.png",
+    "image_key": "Analytics/DataArtsFabric.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "专属分布式存储服务 DSS",
+    "description": "提供独享的物理存储资源",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DSS.png",
+    "image_key": "Storage/DSS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "业务恢复服务 BRS",
+    "description": "提供跨可用区RPO=0的容灾保护服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/sdrs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SDRS.png",
+    "image_key": "Storage/SDRS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "云备份 CBR",
+    "description": "为云服务器、云硬盘等提供备份服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cbr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CBR.png",
+    "image_key": "Storage/CBR.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "云服务器备份 CSBS",
+    "description": "为所有云硬盘创建一致性在线备份",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/csbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/CSBS.png",
+    "image_key": "Storage/CSBS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "云硬盘 EVS",
+    "description": "为计算服务提供持久性块存储的服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/evs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/EVS.png",
+    "image_key": "Storage/EVS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "云硬盘备份 VBS",
+    "description": "创建在线备份，无需关机/重启",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vbs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/VBS.png",
+    "image_key": "Storage/VBS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "对象存储服务 OBS",
+    "description": "稳定、安全、高效、易用的云存储服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "弹性文件服务 SFS",
+    "description": "完全托管的共享文件存储",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/sfs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFS.png",
+    "image_key": "Storage/SFS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "数据快递服务 DES",
+    "description": "为数据上云提供安全、快速的传输服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/des.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/DES.png",
+    "image_key": "Storage/DES.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "存储",
+    "title": "高性能弹性文件服务 SFS Turbo",
+    "description": "高带宽、低时延的全托管文件服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/sfsturbo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/SFSTurbo.png",
+    "image_key": "Storage/SFSTurbo.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "DDoS防护 AAD",
+    "description": "快速缓解对业务造成瘫痪的网络攻击",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/aad.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/AAD.png",
+    "image_key": "SecurityCompliance/AAD.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "Web应用防火墙 WAF",
+    "description": "识别恶意请求特征和防御未知威胁",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/waf.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/WAF.png",
+    "image_key": "SecurityCompliance/WAF.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "云堡垒机 CBH",
+    "description": "主机管理、权限控制、运维审计",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cbh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CBH.png",
+    "image_key": "SecurityCompliance/CBH.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "云证书与管理服务 CCM",
+    "description": "SSL证书和私有证书管理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ccm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SSL.png",
+    "image_key": "SecurityCompliance/SSL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "云防火墙 CFW",
+    "description": "网络流量管控与入侵安全防护",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cfw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/CFW.png",
+    "image_key": "SecurityCompliance/CFW.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "企业主机安全 HSS",
+    "description": "服务器贴身安全管家",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/hss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/HSS.png",
+    "image_key": "SecurityCompliance/HSS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "安全云脑 SecMaster",
+    "description": "云原生的新一代智能安全运营中心",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/secmaster.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/SecMaster.png",
+    "image_key": "SecurityCompliance/SecMaster.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "密码安全中心 DEW",
+    "description": "云上数据加密和密钥托管服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dew.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DEW.png",
+    "image_key": "SecurityCompliance/DEW.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "数据安全中心 DSC",
+    "description": "云原生数据安全治理平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dsc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DSC.png",
+    "image_key": "SecurityCompliance/DSC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "数据库安全服务 DBSS",
+    "description": "数据库审计，SQL注入攻击检测",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dbss.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/DBSS.png",
+    "image_key": "SecurityCompliance/DBSS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "安全与合规",
+    "title": "边缘安全 EdgeSec",
+    "description": "保护边缘应用安全，提升安全加速体验",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/edgesec.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/EdgeSec.png",
+    "image_key": "SecurityCompliance/EdgeSec.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "容器",
+    "title": "云容器实例 CCI",
+    "description": "提供敏捷安全的Serverless容器服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cci.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCI.png",
+    "image_key": "Containers/CCI.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "容器",
+    "title": "云容器引擎 CCE",
+    "description": "高可靠的企业级容器应用管理服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "容器",
+    "title": "华为云UCS",
+    "description": "提供无处不在的云原生服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ucs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/UCS.png",
+    "image_key": "Containers/UCS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "容器",
+    "title": "容器镜像服务 SWR",
+    "description": "容器镜像全生命周期管理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/swr.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/SWR.png",
+    "image_key": "Containers/SWR.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "API网关 APIG",
+    "description": "构建、管理和部署任意规模的API服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/apig.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/APIG.png",
+    "image_key": "Middleware/APIG.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "分布式消息服务 DMS",
+    "description": "完全托管的高性能消息队列服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/DMS.png",
+    "image_key": "Middleware/DMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "分布式消息服务Kafka版",
+    "description": "高吞吐、高可用的消息中间件服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dmskafka.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Kafka.png",
+    "image_key": "Middleware/Kafka.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "分布式消息服务RabbitMQ版",
+    "description": "支持AMQP协议，兼容RabbitMQ生态",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/rabbitmq.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/RabbitMQ.png",
+    "image_key": "Middleware/RabbitMQ.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "分布式消息服务RocketMQ版",
+    "description": "低延迟、高可靠，兼容开源RocketMQ",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/rocketmq.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/ROCKETMQ.png",
+    "image_key": "Middleware/ROCKETMQ.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "分布式缓存服务Memcached版",
+    "description": "一个高性能、分布式的缓存系统",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dcsmem.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Memcached.png",
+    "image_key": "Middleware/Memcached.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "多活高可用服务 MAS",
+    "description": "提供端到端业务故障切换及容灾演练能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mas.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/MAS.png",
+    "image_key": "Middleware/MAS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "应用中间件",
+    "title": "微服务引擎 CSE",
+    "description": "微服务快速注册发现、配置管理及治理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cse.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/CSE.png",
+    "image_key": "Middleware/CSE.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "云应用引擎 CAE",
+    "description": "提供全托管的应用上云服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cae.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CAE.png",
+    "image_key": "DeveloperServices/CAE.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "代码托管 CodeArts Repo",
+    "description": "提供基于Git的在线代码托管服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/codehub.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsRepo.png",
+    "image_key": "DeveloperServices/CodeArtsRepo.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "代码检查 CodeArts Check",
+    "description": "基于云端实现代码质量管理的服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/codecheck.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsCheck.png",
+    "image_key": "DeveloperServices/CodeArtsCheck.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "制品仓库 CodeArts Artifact",
+    "description": "提供多类型、安全可靠的软件制品仓库",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cloudrelease.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsArtifact.png",
+    "image_key": "DeveloperServices/CodeArtsArtifact.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "华为云Astro轻应用",
+    "description": "快速搭建低代码轻应用",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/appcube.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/AstroZero.png",
+    "image_key": "DeveloperServices/AstroZero.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "应用管理与运维平台 ServiceStage",
+    "description": "面向企业的一站式PaaS平台服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/servicestage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/ServiceStage.png",
+    "image_key": "DeveloperServices/ServiceStage.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "开源治理服务 CodeArts Governance",
+    "description": "识别开源软件风险，高效安全的使用开源",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/codeartsgovernance.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/DevSecurity.png",
+    "image_key": "DeveloperServices/DevSecurity.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "性能测试 CodeArts PerfTest",
+    "description": "为应用的接口和全链路提供性能测试服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cpts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPerfTest.png",
+    "image_key": "DeveloperServices/CodeArtsPerfTest.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "流水线 CodeArts Pipeline",
+    "description": "可视化、可定制的持续交付发布软件",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cloudpipeline.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsPipeline.png",
+    "image_key": "DeveloperServices/CodeArtsPipeline.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "测试计划 CodeArts TestPlan",
+    "description": "面向开发者提供的一站式测试管理平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cloudtest.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsTestPlan.png",
+    "image_key": "DeveloperServices/CodeArtsTestPlan.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "编译构建 CodeArts Build",
+    "description": "提供开箱即用、快速的构建能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cloudbuild.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsBuild.png",
+    "image_key": "DeveloperServices/CodeArtsBuild.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "软件开发生产线 CodeArts",
+    "description": "内置华为实践的一站式软件开发平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/devcloud.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArts.png",
+    "image_key": "DeveloperServices/CodeArts.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "部署 CodeArts Deploy",
+    "description": "提供可视化、一键式部署服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/clouddeploy.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsDeploy.png",
+    "image_key": "DeveloperServices/CodeArtsDeploy.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开发与运维",
+    "title": "需求管理 CodeArts Req",
+    "description": "为研发团队提供高效需求管理服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/projectman.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/DeveloperServices/CodeArtsReq.png",
+    "image_key": "DeveloperServices/CodeArtsReq.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开天aPaaS",
+    "title": "云消息服务 KooMessage",
+    "description": "一站式富媒体消息服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/koomessage.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooMessage.png",
+    "image_key": "aPaaS/KooMessage.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "开天aPaaS",
+    "title": "云空间服务 KooDrive",
+    "description": "数字内容中枢，内容协作更高效",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "Flexus云数据库RDS",
+    "description": "基于开源MySQL内核的轻量级数据库",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/flexus-rds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FRDS.png",
+    "image_key": "Compute/FRDS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云原生多模数据库 GeminiDB",
+    "description": "云原生多模数据库，兼容主流NoSQL协议",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/geminidb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBfornosql.png",
+    "image_key": "Databases/GaussDBfornosql.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云数据库 GaussDB",
+    "description": "企业级分布式关系型数据库产品",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云数据库 RDS for MariaDB",
+    "description": "开源数据库、即开即用、稳定可靠",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mariadb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMariaDB.png",
+    "image_key": "Databases/RDSforMariaDB.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云数据库 RDS for MySQL",
+    "description": "开源、性能优越，搭配LAMP",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mysql.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforMySQL.png",
+    "image_key": "Databases/RDSforMySQL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云数据库 RDS for PostgreSQL",
+    "description": "开源数据库，保证数据的可靠性和完整性",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/pg.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/RDSforPostgreSQL.png",
+    "image_key": "Databases/RDSforPostgreSQL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "云数据库 TaurusDB",
+    "description": "完全兼容MySQL的企业级分布式数据库",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/taurusdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDBforMySQL.png",
+    "image_key": "Databases/GaussDBforMySQL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "分布式数据库中间件 DDM",
+    "description": "实现海量数据高并发访问",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ddm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDM.png",
+    "image_key": "Databases/DDM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "分布式缓存服务 DCS",
+    "description": "兼容Redis®的高速内存数据处理引擎",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dcs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Middleware/Redis.png",
+    "image_key": "Middleware/Redis.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "数据复制服务 DRS",
+    "description": "业务不停机中完成数据库迁移上云",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/drs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DRS.png",
+    "image_key": "Databases/DRS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "数据库和应用迁移 UGO",
+    "description": "专注于异构数据库结构迁移的专业云服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ugo.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/UGO.png",
+    "image_key": "Databases/UGO.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "数据管理服务 DAS",
+    "description": "数据库管理专家",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/das.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DAS.png",
+    "image_key": "Databases/DAS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "数据库",
+    "title": "文档数据库服务 DDS",
+    "description": "支持集群和副本集部署，弹性伸缩",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dds.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/DDS.png",
+    "image_key": "Databases/DDS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "云审计服务 CTS",
+    "description": "提供云账户下资源的操作记录",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CTS.png",
+    "image_key": "ManagementGovernance/CTS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "云日志服务 LTS",
+    "description": "提供日志收集、实时查询、存储等功能",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/lts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/LTS.png",
+    "image_key": "ManagementGovernance/LTS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "云监控服务 CES",
+    "description": "提供云上及本地资源的立体化监控平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ces.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/CES.png",
+    "image_key": "ManagementGovernance/CES.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "云运维中心 COC",
+    "description": "提供安全、高效的一站式智能运维平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/coc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/COC.png",
+    "image_key": "ManagementGovernance/COC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "优化顾问 OA",
+    "description": "一键识别云资源潜在风险并给出优化建议",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/oa.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/OA.png",
+    "image_key": "ManagementGovernance/OA.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "应用性能管理 APM",
+    "description": "实时监控并管理企业应用性能和故障",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/apm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/APM.png",
+    "image_key": "ManagementGovernance/APM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "应用运维管理 AOM",
+    "description": "提供立体运维平台，实时监控应用",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/aom.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/AOM.png",
+    "image_key": "ManagementGovernance/AOM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "消息通知服务 SMN",
+    "description": "依据用户的需求主动推送通知消息",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/smn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/SMN.png",
+    "image_key": "ManagementGovernance/SMN.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "组织 Organizations",
+    "description": "提供多账号关系的管理能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/organizations.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/Organizations.png",
+    "image_key": "ManagementGovernance/Organizations.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "统一身份认证服务 IAM",
+    "description": "提供身份认证和权限管理功能",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/iam.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/IAM.png",
+    "image_key": "ManagementGovernance/IAM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "资源治理中心 RGC",
+    "description": "搭建并治理安全可扩展的多账号环境",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/rgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RGC.png",
+    "image_key": "ManagementGovernance/RGC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "资源编排服务 RFS",
+    "description": "批量自动化创建云服务资源",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/aos.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RFS.png",
+    "image_key": "ManagementGovernance/RFS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "资源访问管理 RAM",
+    "description": "提供安全的跨账号共享资源的能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ram.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RAM.png",
+    "image_key": "ManagementGovernance/RAM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "管理与监管",
+    "title": "配置审计 Config",
+    "description": "提供全局资源配置管理，配置检测能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/rms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/ManagementGovernance/RMS.png",
+    "image_key": "ManagementGovernance/RMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "AI开发平台ModelArts",
+    "description": "面向AI开发者的一站式开发平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/modelarts.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/AI/ModelArts.png",
+    "image_key": "AI/ModelArts.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "Flexus云服务",
+    "description": "新一代性能倍增、体验跃级的云服务系列",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "云容器引擎 CCE",
+    "description": "提供高可靠的企业级容器应用管理服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cce.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Containers/CCE.png",
+    "image_key": "Containers/CCE.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "云搜索服务 CSS",
+    "description": "提供多条件检索与分析能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/css.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Analytics/CSS.png",
+    "image_key": "Analytics/CSS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "云数据库 GaussDB",
+    "description": "新一代企业级分布式关系型数据库产品",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/gaussdb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Databases/GaussDB.png",
+    "image_key": "Databases/GaussDB.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "云空间服务 KooDrive",
+    "description": "数字内容中枢，内容协作更高效",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/koodrive.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/aPaaS/KooDrive.png",
+    "image_key": "aPaaS/KooDrive.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "对象存储服务 OBS",
+    "description": "稳定、安全、高效、易用的云存储服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/obs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Storage/OBS.png",
+    "image_key": "Storage/OBS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "弹性云服务器 ECS",
+    "description": "可随时自动获取、弹性伸缩的云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "弹性负载均衡 ELB",
+    "description": "将流量自动分发到多台云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "精选推荐",
+    "title": "虚拟私有云 VPC",
+    "description": "隔离的、私密的虚拟网络环境",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "NAT网关 NAT",
+    "description": "提供网络地址转换服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/nat.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/NAT.png",
+    "image_key": "Networking/NAT.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "VPC终端节点 VPCEP",
+    "description": "提供VPC之间的私密连接通道",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vpcep.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPCEP.png",
+    "image_key": "Networking/VPCEP.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "云专线 DC",
+    "description": "搭建本地数据中心与VPC间的专属连接通道",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/DC.png",
+    "image_key": "Networking/DC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "云解析服务 DNS",
+    "description": "提供高可用，高扩展的DNS和管理服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dns.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/BusinessApplications/DNS.png",
+    "image_key": "BusinessApplications/DNS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "云连接 CC",
+    "description": "支持多Region VPC互通的混合云组网",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/CC.png",
+    "image_key": "Networking/CC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "企业交换机 ESW",
+    "description": "云上与云下的大二层连接通道",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/esw.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ESW.png",
+    "image_key": "Networking/ESW.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "企业路由器 ER",
+    "description": "提供高可靠的集中路由管理能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/er.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ER.png",
+    "image_key": "Networking/ER.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "全球加速 GA",
+    "description": "提供SLA稳定的加速传输",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ga.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/GA.png",
+    "image_key": "Networking/GA.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "弹性公网IP EIP",
+    "description": "提供独立的公网IP资源",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/eip.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/EIP.png",
+    "image_key": "Networking/EIP.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "弹性负载均衡 ELB",
+    "description": "将流量自动分发到多台云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/elb.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/ELB.png",
+    "image_key": "Networking/ELB.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "虚拟专用网络 VPN",
+    "description": "数据中心与华为云的IPsec加密连接通道",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vpn.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPN.png",
+    "image_key": "Networking/VPN.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "网络",
+    "title": "虚拟私有云 VPC",
+    "description": "隔离的、私密的虚拟网络环境",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Networking/VPC.png",
+    "image_key": "Networking/VPC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "视频",
+    "title": "媒体处理 MPC",
+    "description": "经济、高效、弹性的音视频转码和处理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mpc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MPC.png",
+    "image_key": "MediaServices/MPC.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "视频",
+    "title": "数字内容生产线MetaStudio",
+    "description": "提供一站式数字内容生产解决方案",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/metastudio.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/MetaStudio.png",
+    "image_key": "MediaServices/MetaStudio.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "视频",
+    "title": "行业视频管理服务 IVM",
+    "description": "面向机器视觉设备提供统一的设备管理",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ivm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/SecurityCompliance/IVM.png",
+    "image_key": "SecurityCompliance/IVM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "视频",
+    "title": "视频点播VOD",
+    "description": "安全、流畅、可定制的视频点播服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/vod.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/VOD.png",
+    "image_key": "MediaServices/VOD.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "视频",
+    "title": "视频直播 Live",
+    "description": "端到端视频直播解决方案",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/live.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/MediaServices/Live.png",
+    "image_key": "MediaServices/Live.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "Flexus云服务",
+    "description": "新一代性能倍增、体验跃级的云服务系列",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/flexus.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/Flexus.png",
+    "image_key": "Compute/Flexus.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "Flexus云服务器X实例",
+    "description": "柔性算力，六倍性能，旗舰体验",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/flexus-x.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSX.png",
+    "image_key": "Compute/FECSX.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "Flexus应用服务器L实例",
+    "description": "即开即用的轻量型云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/flexus-l.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FECSL.png",
+    "image_key": "Compute/FECSL.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "GPU加速云服务器 GACS",
+    "description": "提供GPU计算资源的弹性云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/gpu.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/GACS.png",
+    "image_key": "Compute/GACS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "专属主机 DeH",
+    "description": "满足对计算资源的隔离和性能要求",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/deh.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/DeH.png",
+    "image_key": "Compute/DeH.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "专属计算集群服务 DCC",
+    "description": "提供资源物理隔离的专属计算资源池",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/dcc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/dcc.png",
+    "image_key": "Compute/dcc.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "云化数据中心 CloudDC",
+    "description": "助力自持资产客户快速云化转型",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/clouddc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CloudDC.svg",
+    "image_key": "Compute/CloudDC.svg"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "云手机服务器 CPH",
+    "description": "具有虚拟手机功能的云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cph.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/CPH.png",
+    "image_key": "Compute/CPH.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "函数工作流 FunctionGraph",
+    "description": "用户无需配置或管理服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/functiongraph.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/FunctionGraph.png",
+    "image_key": "Compute/FunctionGraph.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "弹性云服务器 ECS",
+    "description": "可随时自动获取、弹性伸缩的云服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ecs.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/ECS.png",
+    "image_key": "Compute/ECS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "弹性伸缩 AS",
+    "description": "自动调整计算资源",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/as.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/AS.png",
+    "image_key": "Compute/AS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "裸金属服务器 BMS",
+    "description": "高性能、高安全的云上物理服务器",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/bms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/BMS.png",
+    "image_key": "Compute/BMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "计算",
+    "title": "镜像服务 IMS",
+    "description": "提供完善的镜像管理能力",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/ims.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Compute/IMS.png",
+    "image_key": "Compute/IMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "迁移",
+    "title": "主机迁移服务 SMS",
+    "description": "把数据中心或其他云上主机迁移到华为云",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/sms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/SMS.png",
+    "image_key": "Migration/SMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "迁移",
+    "title": "云数据迁移 CDM",
+    "description": "提供同/异构数据源之间批量数据迁移服务",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/cdm.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/CDM.png",
+    "image_key": "Migration/CDM.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "迁移",
+    "title": "对象存储迁移服务 OMS",
+    "description": "实现公有云对象存储数据迁移",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/oms.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/OMS.png",
+    "image_key": "Migration/OMS.png"
+  },
+  {
+    "source": "intl-zh-cn",
+    "category": "迁移",
+    "title": "迁移中心 MgC",
+    "description": "一站式迁移和现代化平台",
+    "href": "https://www.huaweicloud.com/intl/zh-cn/product/mgc.html",
+    "image_url": "https://res-static.hc-cdn.cn/cloudbu-site/public/new-product-icon/Migration/MGC.png",
+    "image_key": "Migration/MGC.png"
+  }
+]

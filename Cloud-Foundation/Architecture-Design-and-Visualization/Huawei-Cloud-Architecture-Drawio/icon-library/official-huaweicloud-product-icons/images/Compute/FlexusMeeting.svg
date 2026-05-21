@@ -1,0 +1,58 @@
+<svg width="72.000000" height="72.000000" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="0.000004" y1="0.000000" x2="72.000000" y2="72.000000" id="paint_linear_1027_778_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.004999" stop-color="#449AFF"/>
+			<stop offset="0.501534" stop-color="#1476FF"/>
+			<stop offset="1.000000" stop-color="#3589FF"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(19.0989 7.993) rotate(0) scale(40.1964 12.3144)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_1027_892_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(14.2209 11.539) rotate(0) scale(8.98511 5.84291)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_1027_896_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(22.276 4.45) rotate(0) scale(65.0945 15.6765)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_1027_900_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<rect id="矩形 1" rx="16.000616" width="72.000000" height="72.000000" fill="#1476FF" fill-opacity="1.000000"/>
+	<rect id="矩形 1" rx="16.000616" width="72.000000" height="72.000000" fill="url(#paint_linear_1027_778_0)" fill-opacity="0"/>
+	<path id="形状结合" d="M49.9761 23.6462C49.9761 22.766 49.261 22.0525 48.3792 22.0525L15.9966 22.0525C15.1147 22.0525 14.3999 22.766 14.3999 23.6462L14.3999 48.3584C14.3999 49.2386 15.1147 49.9522 15.9966 49.9522L48.3792 49.9522C49.261 49.9522 49.9761 49.2386 49.9761 48.3584L49.9761 23.6462ZM22.2234 29.1499L42.1533 29.1499C42.2637 29.1499 42.353 29.2391 42.353 29.3492L42.353 42.6469C42.353 42.757 42.2637 42.8462 42.1533 42.8462L26.1646 42.8462C26.1162 42.8462 26.0696 42.8637 26.0332 42.8955L22.0239 46.397L22.0239 29.3492C22.0239 29.2391 22.1133 29.1499 22.2234 29.1499Z" clip-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="形状结合" d="M23.62 22.04L48.37 22.04C49.26 22.04 49.97 22.76 49.97 23.64L49.97 29.14L49.97 29.14L22.02 29.14L22.02 23.64C22.02 22.76 22.73 22.04 23.62 22.04Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形" d="M56.99 27.22L49.97 31.43L49.97 31.43L49.97 40.56L56.99 44.76C57.18 44.88 57.42 44.81 57.54 44.63C57.58 44.56 57.6 44.49 57.6 44.42L57.6 27.57C57.6 27.35 57.42 27.17 57.2 27.17C57.12 27.17 57.05 27.19 56.99 27.22Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<mask id="mask1027_883" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="36.572021" height="24.000000">
+		<path id="交集" d="M0 15.88L0 24C0.34 22.75 0.88 21.67 1.64 20.77C3.6 18.42 6.97 17.25 11.74 17.25C21.65 17.25 27.81 13.99 31.57 9.64C33.46 7.46 34.87 5.1 35.8 2.57C36.11 1.73 36.36 0.87 36.57 0L15.85 0C7.12 0.07 0.06 7.14 0 15.88Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</mask>
+	<g mask="url(#mask1027_883)">
+		<path id="交集" d="M0 15.88L0 24C0.34 22.75 0.88 21.67 1.64 20.77C3.6 18.42 6.97 17.25 11.74 17.25C21.65 17.25 27.81 13.99 31.57 9.64C33.46 7.46 34.87 5.1 35.8 2.57C36.11 1.73 36.36 0.87 36.57 0L15.85 0C7.12 0.07 0.06 7.14 0 15.88Z" fill="#1C5DB8" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g opacity="0.600000">
+		<path id="矩形-209" d="M15.5 5.44L18.66 7.53C18.16 8.39 17.09 8.65 16.28 8.12L13.11 6.04C13.61 5.18 14.68 4.91 15.5 5.44Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="矩形-209" d="M18.66 7.53C18.16 8.39 17.09 8.65 16.28 8.12L13.11 6.04C13.61 5.18 14.68 4.91 15.5 5.44L18.66 7.53Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="矩形-209" d="M16.28 8.12L13.11 6.04C13.61 5.18 14.68 4.91 15.5 5.44L18.66 7.53C18.16 8.39 17.09 8.65 16.28 8.12Z" stroke="#000000" stroke-opacity="0" stroke-width="0.571429"/>
+	</g>
+	<path id="矩形-207" d="M13.84 7.53L18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58L11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形-207" d="M18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58L11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53L18.64 7.53Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-207" d="M16.71 9.58L11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53L18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58Z" stroke="#000000" stroke-opacity="0" stroke-width="0.571429"/>
+	<path id="矩形-207" d="M18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58L11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53L18.64 7.53Z" fill="#000000" fill-opacity="0" fill-rule="evenodd"/>
+	<path id="矩形-207" d="M16.71 9.58L11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53L18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-207" d="M11.91 9.59C11.91 8.46 12.77 7.55 13.84 7.53L18.64 7.53C18.64 8.66 17.79 9.58 16.71 9.58L11.91 9.59Z" stroke="url(#paint_radial_1027_892_0)" stroke-opacity="1.000000" stroke-width="0.115743" stroke-linejoin="round"/>
+	<path id="矩形-208" d="M12.77 11.08L14 11.08C14 12.21 13.14 13.13 12.07 13.13L10.84 13.13C10.84 12 11.71 11.08 12.77 11.08Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形-208" d="M14 11.08C14 12.21 13.14 13.13 12.07 13.13L10.84 13.13C10.84 12 11.71 11.08 12.77 11.08L14 11.08Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-208" d="M12.07 13.13L10.84 13.13C10.84 12 11.71 11.08 12.77 11.08L14 11.08C14 12.21 13.14 13.13 12.07 13.13Z" stroke="#000000" stroke-opacity="0" stroke-width="0.571429"/>
+	<path id="矩形-208" d="M14 11.08C14 12.21 13.14 13.13 12.07 13.13L10.84 13.13C10.84 12 11.71 11.08 12.77 11.08L14 11.08Z" fill="#000000" fill-opacity="0" fill-rule="evenodd"/>
+	<path id="矩形-208" d="M12.07 13.13L10.84 13.13C10.84 12 11.71 11.08 12.77 11.08L14 11.08C14 12.21 13.14 13.13 12.07 13.13Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-208" d="M10.84 13.13C10.84 12 11.71 11.08 12.77 11.08L14 11.08C14 12.21 13.14 13.13 12.07 13.13L10.84 13.13Z" stroke="url(#paint_radial_1027_896_0)" stroke-opacity="1.000000" stroke-width="0.115743" stroke-linejoin="round"/>
+	<path id="矩形-206" d="M15.05 3.99L21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03L13.12 6.05C13.11 4.92 13.99 4 15.05 3.99Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="矩形-206" d="M21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03L13.12 6.05C13.11 4.92 13.99 4 15.05 3.99L21.71 3.98Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-206" d="M19.78 6.03L13.12 6.05C13.11 4.92 13.99 4 15.05 3.99L21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03Z" stroke="#000000" stroke-opacity="0" stroke-width="0.571429"/>
+	<path id="矩形-206" d="M21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03L13.12 6.05C13.11 4.92 13.99 4 15.05 3.99L21.71 3.98Z" fill="#000000" fill-opacity="0" fill-rule="evenodd"/>
+	<path id="矩形-206" d="M19.78 6.03L13.12 6.05C13.11 4.92 13.99 4 15.05 3.99L21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+	<path id="矩形-206" d="M13.12 6.05C13.11 4.92 13.99 4 15.05 3.99L21.71 3.98C21.71 5.11 20.83 6.03 19.78 6.03L13.12 6.05Z" stroke="url(#paint_radial_1027_900_0)" stroke-opacity="1.000000" stroke-width="0.115743" stroke-linejoin="round"/>
+</svg>
